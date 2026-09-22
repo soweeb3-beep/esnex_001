@@ -1,0 +1,88 @@
+[
+  {
+    "_id": "q_theory_001",
+    "assessmentId": "physics_assess_001",
+    "partName": "theory",
+    "sectionName": "mechanics",
+    "questionNumber": 1,
+    "questionText": "Define velocity and explain how it differs from speed.",
+    "questionType": "essay",
+    "marks": 10,
+    "createdAt": "2026-06-25T00:00:00Z",
+    "updatedAt": "2026-06-25T00:00:00Z"
+  },
+  {
+    "_id": "q_theory_002",
+    "assessmentId": "physics_assess_001",
+    "partName": "theory",
+    "sectionName": "mechanics",
+    "questionNumber": 2,
+    "questionText": "State Newton's third law of motion.",
+    "questionType": "essay",
+    "marks": 10,
+    "createdAt": "2026-06-25T00:00:00Z",
+    "updatedAt": "2026-06-25T00:00:00Z"
+  },
+  {
+    "_id": "q_theory_003",
+    "assessmentId": "physics_assess_001",
+    "partName": "theory",
+    "sectionName": "waves",
+    "questionNumber": 3,
+    "questionText": "What is the relationship between frequency and wavelength?",
+    "questionType": "essay",
+    "marks": 10,
+    "createdAt": "2026-06-25T00:00:00Z",
+    "updatedAt": "2026-06-25T00:00:00Z"
+  },
+  {
+    "_id": "q_practical_001",
+    "assessmentId": "physics_assess_001",
+    "partName": "practical",
+    "sectionName": "mechanics",
+    "questionNumber": 1,
+    "questionText": "A car accelerates uniformly from 0 m/s to 20 m/s in 5 seconds. Calculate the acceleration.",
+    "questionType": "problem",
+    "marks": 15,
+    "answer": "4 m/s²",
+    "createdAt": "2026-06-25T00:00:00Z",
+    "updatedAt": "2026-06-25T00:00:00Z"
+  },
+  {
+    "_id": "q_practical_002",
+    "assessmentId": "physics_assess_001",
+    "partName": "practical",
+    "sectionName": "mechanics",
+    "questionNumber": 2,
+    "questionText": "Calculate the kinetic energy of a 2 kg object moving at 5 m/s.",
+    "questionType": "problem",
+    "marks": 15,
+    "answer": "25 J",
+    "createdAt": "2026-06-25T00:00:00Z",
+    "updatedAt": "2026-06-25T00:00:00Z"
+  },
+  {
+    "_id": "q_practical_003",
+    "assessmentId": "physics_assess_001",
+    "partName": "practical",
+    "sectionName": "waves",
+    "questionNumber": 3,
+    "questionText": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Find the wave speed.",
+    "questionType": "problem",
+    "marks": 15,
+    "answer": "100 m/s",
+    "createdAt": "2026-06-25T00:00:00Z",
+    "updatedAt": "2026-06-25T00:00:00Z"
+  },
+  {
+    "_id": "vpic5j4zk",
+    "text": "What is force?",
+    "totalMarks": 5,
+    "assessmentId": "sa_q_test_1",
+    "partName": "Objective",
+    "sectionName": "A",
+    "questionId": "sa_q_test_1_Objective_A_1786217686269_0.1072608722505245",
+    "createdAt": "2026-08-08T19:34:46.270Z",
+    "updatedAt": "2026-08-08T19:34:46.270Z"
+  }
+]

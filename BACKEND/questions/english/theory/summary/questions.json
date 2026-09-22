@@ -1,0 +1,7 @@
+[
+  {
+    "id": "eng-theory-summary-1",
+    "prompt": "Summarize the passage in your own words.",
+    "type": "summary"
+  }
+]

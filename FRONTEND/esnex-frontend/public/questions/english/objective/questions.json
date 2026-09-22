@@ -1,0 +1,14 @@
+[
+  {
+    "id": "eng-obj-1",
+    "text": "What is the plural of 'child'?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "childs" },
+      { "id": "b", "text": "children" },
+      { "id": "c", "text": "childes" },
+      { "id": "d", "text": "childer" }
+    ],
+    "answer": "b"
+  }
+]

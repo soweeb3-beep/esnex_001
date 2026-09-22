@@ -1,0 +1,1652 @@
+[
+  {
+    "question_number": 1,
+    "question": "Which of the following raw materials is used in the plastic industry?",
+    "options": {
+      "A": "Ethene",
+      "B": "Methane",
+      "C": "Sulphur",
+      "D": "Hydrogen"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 2,
+    "question": "Which of the following organic compounds can undergo both addition and substitution reactions?",
+    "options": {
+      "A": "Pentane",
+      "B": "benzene",
+      "C": "Propane",
+      "D": "Hexane"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "Which of the following equations represents a redox reaction?",
+    "options": {
+      "A": "AgNO3(aq) + KCL(aq) -> AgCl(s) + KNO3(aq)",
+      "B": "HNO3(aq) + NaOH(aq) -> NaNO3(aq) + H2O(l)",
+      "C": "CaCO3(s) -> CaO(s) + CO2(g)",
+      "D": "2H2S(g) + SO2(g) -> 2H2O(l) + 3S(s)"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 4,
+    "question": "The process of extraction of iron from its ore is",
+    "options": {
+      "A": "decomposition",
+      "B": "oxidation",
+      "C": "reduction",
+      "D": "sublimation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the solubility of a salt if 0.4g of it is obtained on evaporating 200cm3 of its saturated solution to dryness?",
+    "options": {
+      "A": "0.08gdm-3",
+      "B": "2.00gdm-3",
+      "C": "8.00gdm-3",
+      "D": "80.00gdm-3"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 6,
+    "question": "An acidic salt has",
+    "options": {
+      "A": "double anions in its aqueous solution",
+      "B": "a single cation in its aqueous solution",
+      "C": "hydrogen ions in its aqueous solution",
+      "D": "hydrogen atoms in its aqueous solution"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 7,
+    "question": "A reaction is endothermic if the",
+    "options": {
+      "A": "reaction vessel feels cool during the reaction",
+      "B": "enthalpy change is negative",
+      "C": "bond forming energy exceeds bond breaking energy",
+      "D": "heat of formation of reactants exceeds heat of formation of products."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 8,
+    "question": "In which of the following compounds does hydrogen form ionic compounds?",
+    "options": {
+      "A": "CH4",
+      "B": "HCl",
+      "C": "NH3",
+      "D": "NaH"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 9,
+    "question": "Consider the following reaction equation: Br2 + 2KI -> 2KBr + I2. Bromine is acting as",
+    "options": {
+      "A": "an oxidizing agent",
+      "B": "a reducing agent",
+      "C": "an acid",
+      "D": "a base"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 10,
+    "question": "An organic compound has the empirical formula CH2. If its molar mass is 42gmol-1, what is its molecular formula? [H = 1.0, C = 12.0]",
+    "options": {
+      "A": "C2H4",
+      "B": "C3H4",
+      "C": "C3H6",
+      "D": "C4H8"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "Ethene is produced from ethanol by",
+    "options": {
+      "A": "decomposition",
+      "B": "hydrolysis",
+      "C": "ozonolysis",
+      "D": "dehydration"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 12,
+    "question": "Consider the following equilibrium reaction: 2AB2(g) + B2(g) <-> 2AB3(g) H = -X kJmol-1. The backward reaction will be favoured by",
+    "options": {
+      "A": "a decrease in pressure",
+      "B": "an increase in pressure",
+      "C": "a decrease in temperature",
+      "D": "an introduction of a positive catalyst"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 13,
+    "question": "What is the mass of solute in 500cm3 of 0.005 moldm-3 H2SO4? [H=1.0, O=16.0, S=32.0]",
+    "options": {
+      "A": "0.490g",
+      "B": "0.049g",
+      "C": "0.245g",
+      "D": "0.0245g"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 14,
+    "question": "Pure water can be made to boil at a temperature lower than 100°C by",
+    "options": {
+      "A": "reducing its quantity",
+      "B": "decreasing the external pressure",
+      "C": "distilling it",
+      "D": "increasing the external pressure."
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 15,
+    "question": "Consider the following sketch of the solubility curve of some substances. At what temperature does the solubility of KNO3 equal that of NaNO3?",
+    "options": {
+      "A": "0°C",
+      "B": "20°C",
+      "C": "30°C",
+      "D": "40°C"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 16,
+    "question": "When a salt is added to its saturated solution, the salt",
+    "options": {
+      "A": "dissolves and the solution becomes super saturated",
+      "B": "dissolves and the solution becomes unsaturated",
+      "C": "precipitates and the solution remains unchanged",
+      "D": "dissolves and crystals are formed"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 17,
+    "question": "When substance X was added to a solution of bromine water, the solution became colourless. X is likely to be",
+    "options": {
+      "A": "propane",
+      "B": "propanoic acid",
+      "C": "propyne",
+      "D": "propanol"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 18,
+    "question": "The preferential discharge of ions during electrolysis is influenced by the",
+    "options": {
+      "A": "mechanism of electrolysis",
+      "B": "electrolytic reactions",
+      "C": "nature of the electrode",
+      "D": "type of electrolytic cell"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 19,
+    "question": "The valence electrons of 12Mg are in the",
+    "options": {
+      "A": "3s orbital",
+      "B": "2px orbital",
+      "C": "2s orbital",
+      "D": "1s orbital"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 20,
+    "question": "Stainless steel is an alloy comprising of",
+    "options": {
+      "A": "Fe and C",
+      "B": "Fe and Ni",
+      "C": "Fe, C and Ni",
+      "D": "Fe, C and Al"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 21,
+    "question": "The number of hydrogen ions in 1.0dm3 of 0.02 moldm-3 tetraoxosulphate(VI) acid is [NA = 6.02 x 10^23]",
+    "options": {
+      "A": "1.2 x 10^22",
+      "B": "1.2 x 10^23",
+      "C": "2.3 x 10^22",
+      "D": "2.4 x 10^23"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 22,
+    "question": "The most suitable substance for putting out petrol fire is",
+    "options": {
+      "A": "water",
+      "B": "carbon(IV)oxide",
+      "C": "fire blanket",
+      "D": "sand"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 23,
+    "question": "The following factors would contribute to environmental pollution except",
+    "options": {
+      "A": "production of ammonia",
+      "B": "manufacture of cement",
+      "C": "photosynthesis",
+      "D": "combustion"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 24,
+    "question": "The position of equilibrium in a reversible reaction is affected by",
+    "options": {
+      "A": "particle size of the reactants",
+      "B": "vigorous stirring of the reaction mixture",
+      "C": "presence of a catalyst",
+      "D": "change in concentration of the reactions"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "The diagram below illustrates a conical flask containing water and ice. Which of the following statements about the diagram is correct?",
+    "options": {
+      "A": "The water is at a lower temperature than the ice",
+      "B": "Energy is absorbed when the ice changes to water",
+      "C": "Energy is released when the ice changes to water",
+      "D": "The water molecules vibrate about a fixed point."
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 26,
+    "question": "Which of the following statements best explains the differences between a gas and a vapour?",
+    "options": {
+      "A": "unlike gases, vapours are liquids at room temperature",
+      "B": "Unlike gases, vapour can easily be condensed into liquids",
+      "C": "Unlike gases, vapour is readily converted into solids",
+      "D": "Vapours are generally denser than gases"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 27,
+    "question": "Consider the following reaction equation: 2HCl + Ca(OH)2 -> CaCl2 + H2O. What is the volume of 0.1 moldm-3 HCl that would completely neutralize 25cm3 of 0.3moldm-3 Ca(OH)2?",
+    "options": {
+      "A": "150cm3",
+      "B": "75 cm3",
+      "C": "30cm3",
+      "D": "25cm3"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 28,
+    "question": "Cu and HNO3 are not suitable for preparing hydrogen gas because of their",
+    "options": {
+      "A": "reactivity and oxidation respectively",
+      "B": "conductivity and corrosiveness respectively",
+      "C": "melting point and reduction respectively",
+      "D": "electronegativity and solubility respectively"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 29,
+    "question": "Which of the following formulae cannot be an empirical formula?",
+    "options": {
+      "A": "CH",
+      "B": "CH2",
+      "C": "P2O5",
+      "D": "N2O4"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 30,
+    "question": "One of the criteria for confirming the purity of benzene is to determine its",
+    "options": {
+      "A": "heat capacity",
+      "B": "boiling point",
+      "C": "mass",
+      "D": "colour"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 31,
+    "question": "When chlorine is passed through a sample of water, the pH of the water sample would be",
+    "options": {
+      "A": "<7",
+      "B": ">7",
+      "C": "=7",
+      "D": "0"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 32,
+    "question": "How many atoms are contained in 0.2 moles of nitrogen? [NA=6.02 x 10^23]",
+    "options": {
+      "A": "1.20 x 10^23",
+      "B": "2.41 x 10^23",
+      "C": "3.62 x 10^23",
+      "D": "4.82 x 10^23"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 33,
+    "question": "The strength of metallic bonds depends on the",
+    "options": {
+      "A": "charge density of the atoms",
+      "B": "dectility of the metal",
+      "C": "number of valence electrons",
+      "D": "total number of electrons in the atom"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 34,
+    "question": "When zinc is added to AgNO3 solution, crystals of silver forms on the zinc surface. This indicates that zinc is",
+    "options": {
+      "A": "oxidized",
+      "B": "reduced",
+      "C": "decomposed",
+      "D": "dissociated"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question": "The empirical formula of a compound containing 0.067 mol Cu and 0.66 mol O is [Cu = 63.5, O = 16.0]",
+    "options": {
+      "A": "Cu2O",
+      "B": "CuO",
+      "C": "CuO2",
+      "D": "Cu2O2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 36,
+    "question": "The change in the oxidation state of iron in the reaction represented by the equation below is 2FeCl3 + H2S -> 2FeCl2 + 2HCl + S",
+    "options": {
+      "A": "+2 to +3",
+      "B": "+3 to +2",
+      "C": "0 to +2",
+      "D": "+3 to 0"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 37,
+    "question": "Which of the following methods can be used to separate blood cells from plasma?",
+    "options": {
+      "A": "Centrifugation",
+      "B": "Filtration",
+      "C": "Chromatography",
+      "D": "Distillation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 38,
+    "question": "Which of the following statements about ionic radius is correct? Ionic radius",
+    "options": {
+      "A": "increases as nuclear charge increases",
+      "B": "decreases as nuclear charge increases",
+      "C": "decreases as nuclear charge decreases",
+      "D": "remains constant as nuclear charge increases"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 39,
+    "question": "Analysis of a hydrocarbon shows that it contains 0.93g of carbon per gram of the compound. The mole ratio of carbon to hydrogen in the compound is [H=1.0, C=12.0]",
+    "options": {
+      "A": "1:1",
+      "B": "1:2",
+      "C": "2:1",
+      "D": "2:3"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 40,
+    "question": "The law of definite proportions states that",
+    "options": {
+      "A": "pure samples of the same compound contain the same elements combined in the same proportion by mass",
+      "B": "pure samples of substances are in the same proportion by mass",
+      "C": "chemical compounds are pure because they contain the same elements",
+      "D": "matter can neither be created nor destroyed"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 41,
+    "question": "What is the relative molecular mass of a compound which has empirical formula CH2O? [H=1.0, C=12.0, O=16.0]",
+    "options": {
+      "A": "42",
+      "B": "45",
+      "C": "126",
+      "D": "180"
+    },
+    "answer": "---"
+  },
+  {
+    "question_number": 42,
+    "question": "Atoms are electrically neutral because they",
+    "options": {
+      "A": "do not conduct electricity",
+      "B": "contain equal number of protons and electrons",
+      "C": "are composed of neutrons and electrons",
+      "D": "cannot be attracted by electromagnetic field"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 43,
+    "question": "Common salt (NaCl) is used for preserving foods. Which of the following properties could be used to determine its purity before use?",
+    "options": {
+      "A": "Solubility in water",
+      "B": "Melting point",
+      "C": "Relative density",
+      "D": "Crystalline nature"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 44,
+    "question": "Which of the following electron configurations represents the transition element chromium (24Cr)?",
+    "options": {
+      "A": "1s2 2s2 2p6 3s2 3p6 4s2 3d4",
+      "B": "1s2 2s2 2p6 3s2 3p6 3d6",
+      "C": "1s2 2s2 2p6 3s2 3d4 4s1",
+      "D": "1s2 2s2 2p6 3s2 3p6 4s1 3d5"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 45,
+    "question": "The atomic number of an isotope of hydrogen is equal to its mass number because it",
+    "options": {
+      "A": "has totally filled valence shell",
+      "B": "has a high charge valence shell",
+      "C": "does not contain neutrons",
+      "D": "exhibits isotopy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 46,
+    "question": "The total number of shared pair of electrons in the compound below (ethene) is",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 47,
+    "question": "The bonding pair of electrons in a hydrogen chloride molecule is pulled towards the chlorine atom because",
+    "options": {
+      "A": "chlorine has a larger atomic size",
+      "B": "chlorine has a larger atomic mass",
+      "C": "chlorine is more electronegative",
+      "D": "there is no bonding orbitals within the hydrogen atom"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 48,
+    "question": "The solubility of CO2 in water can be accounted for by",
+    "options": {
+      "A": "van der Waal's forces",
+      "B": "ionic attraction",
+      "C": "dipole attraction",
+      "D": "covalent bonding"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 49,
+    "question": "Which of the following properties would not influence electrovalent bond formation?",
+    "options": {
+      "A": "Electronegativity",
+      "B": "Electron affinity",
+      "C": "Ionization potential",
+      "D": "Catalytic ability"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 50,
+    "question": "Particles in a solid exhibit",
+    "options": {
+      "A": "vibrational motion only",
+      "B": "vibrational and translational motion",
+      "C": "vibrational and random motion",
+      "D": "random and translational motion"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 51,
+    "question": "The periodic table is an arrangement of elements according to their",
+    "options": {
+      "A": "oxidation number",
+      "B": "atomic number",
+      "C": "mass number",
+      "D": "number of neutrons"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 52,
+    "question": "A solid substance with high melting and boiling points is likely to be",
+    "options": {
+      "A": "a covalent compound",
+      "B": "a dative covalent compound",
+      "C": "an electrovalent compound",
+      "D": "a non-metal"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 53,
+    "question": "Which of the following metals reacts slowly with cold water?",
+    "options": {
+      "A": "Iron",
+      "B": "Silver",
+      "C": "Calcium",
+      "D": "Potassium"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 54,
+    "question": "Which of the following elements has the highest ionization energy?",
+    "options": {
+      "A": "Calcium",
+      "B": "Chlorine",
+      "C": "Fluorine",
+      "D": "Magnesium"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 55,
+    "question": "The bleaching action of chlorine is through the process of",
+    "options": {
+      "A": "hydration",
+      "B": "hydrolysis",
+      "C": "reduction",
+      "D": "oxidation"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 56,
+    "question": "If 6.5g of magnesium ribbon reacts completely with hydrochloric acid, how many grams of hydrogen gas would be liberated? Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g) [H=1.0, Mg = 24.0]",
+    "options": {
+      "A": "0.54g",
+      "B": "0.70g",
+      "C": "1.08g",
+      "D": "1.40g"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 57,
+    "question": "Calcium and magnesium belong to the same group of the periodic table because both",
+    "options": {
+      "A": "are metals",
+      "B": "form cations",
+      "C": "form colourless salts",
+      "D": "have same number of valence electrons."
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 58,
+    "question": "Which of the following substances is non-polar?",
+    "options": {
+      "A": "Br2",
+      "B": "NF2",
+      "C": "H2O",
+      "D": "HBr"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 59,
+    "question": "Which of the following pairs of components have the same molecular mass? [H = 1.0, C = 12.0, O = 16.0]",
+    "options": {
+      "A": "Ethene and ethyne",
+      "B": "Ethane and ethene",
+      "C": "Carbon(II) oxide and ethene",
+      "D": "Carbon (IV) oxide and ethyne"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 60,
+    "question": "When an equilibrium is established between dissolved and undissolved solutes, the solution is said to be",
+    "options": {
+      "A": "saturated",
+      "B": "unsaturated",
+      "C": "concentrated",
+      "D": "dilute"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 61,
+    "question": "How many moles of carbon(IV) oxide contains 16.0g of oxygen? [C=12.0, O=16.0]",
+    "options": {
+      "A": "0.20mol",
+      "B": "0.25mol",
+      "C": "0.40mol",
+      "D": "0.50mol"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 62,
+    "question": "Stoichiometry is based on the law of",
+    "options": {
+      "A": "multiple proportion",
+      "B": "constant composition",
+      "C": "conservation of energy",
+      "D": "conservation of mass"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 63,
+    "question": "What is the percentage by mass of hydrogen in CH3COOH? [CH3COOH = 60]",
+    "options": {
+      "A": "1.7%",
+      "B": "5.0%",
+      "C": "6.7%",
+      "D": "7.1%"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 64,
+    "question": "Which of the following compounds has coordinate bonds in its structure?",
+    "options": {
+      "A": "Al2Cl6",
+      "B": "MgCl2",
+      "C": "AgCl",
+      "D": "NaCl"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 65,
+    "question": "The name of the compound CH3C(CH3)2CH2CH2CH3 is",
+    "options": {
+      "A": "2-methyl butane",
+      "B": "2,2-dimethyl butane",
+      "C": "2-methyl pentane",
+      "D": "2,2-dimethyl pentane"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 66,
+    "question": "The properties of a good primary standard include the following except",
+    "options": {
+      "A": "high molecular mass",
+      "B": "low molecular mass",
+      "C": "high degree of purity",
+      "D": "readily available"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 67,
+    "question": "What is the solubility of a salt X at 25°C if the saturated solution of the salt contains 0.28g in 100cm3 of solution? [X = 56.0g]",
+    "options": {
+      "A": "0.05mol dm-3",
+      "B": "0.10mol dm-3",
+      "C": "2.60mol dm-3",
+      "D": "2.80mol dm-3"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 68,
+    "question": "Vinegar is an aqueous solution of",
+    "options": {
+      "A": "hydrochloric acid",
+      "B": "ethanedioic acid",
+      "C": "ethanoic acid",
+      "D": "hydrofluoric acid"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 69,
+    "question": "Which of the following solutions containing one mole per dm3 of the compound would have the lowest pH?",
+    "options": {
+      "A": "Ethanoic acid",
+      "B": "Hydrochloric acid",
+      "C": "Sodium chloride",
+      "D": "Sodium hydrogentrioxocarbonate(IV)"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 70,
+    "question": "A sample of air was bubbled into water. The pH of the water slowly changed from 7 to 6. Which of the following gases in the sample caused the change?",
+    "options": {
+      "A": "Carbon(IV) oxide",
+      "B": "Carbon (II) oxide",
+      "C": "Nitrogen",
+      "D": "Oxygen"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 71,
+    "question": "The most suitable indicator for the reaction between NaOH(aq) and HCOOH(aq) is",
+    "options": {
+      "A": "bromocresol",
+      "B": "methyl orange",
+      "C": "methyl red",
+      "D": "phenolphthalein"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 72,
+    "question": "Consider the following reaction equation: 2Al(OH)3 + 3H2SO4 -> Al2(SO4)3 + 6H2O. How many moles of tetraoxosulphate(VI) acid is needed to produce 0.5mol of aluminium tetraoxosulphate (VI)?",
+    "options": {
+      "A": "0.5",
+      "B": "1.0",
+      "C": "1.5",
+      "D": "3.0"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 73,
+    "question": "Which of the following pairs of substances has the highest heat of neutralization?",
+    "options": {
+      "A": "Strong acid and strong base",
+      "B": "Weak acid and weak base",
+      "C": "Strong acid and weak base",
+      "D": "Weak acid and strong base"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 74,
+    "question": "When quicklime dissolves in water,",
+    "options": {
+      "A": "heat is absorbed",
+      "B": "heat is evolved",
+      "C": "oxygen is liberated",
+      "D": "hydrogen is given off"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 75,
+    "question": "If the value of ΔH is positive for a reaction, it means that the reaction is",
+    "options": {
+      "A": "exothermic",
+      "B": "endothermic",
+      "C": "spontaneous",
+      "D": "slow"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 76,
+    "question": "Which of the following compounds is formed by the oxidation of ethanol?",
+    "options": {
+      "A": "C2H4CO2H",
+      "B": "C2H5CO2H",
+      "C": "CH3OH",
+      "D": "CH3CO2H"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 77,
+    "question": "What is the characteristic of the gas liberated when dilute hydrochloric acid is added to iron(II) sulphide?",
+    "options": {
+      "A": "Turns lime water milky",
+      "B": "Decolorizes bromine water",
+      "C": "Gives a pop sound",
+      "D": "Turns lead (II) ethanoate paper black"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 78,
+    "question": "An organic compound contains 72% carbon, 12% hydrogen and 16% oxygen by mass. What is the empirical formula of the compound? [H=1.0, C = 12.0, O = 16.0]",
+    "options": {
+      "A": "C3H8O",
+      "B": "C6H12O",
+      "C": "C6H12O2",
+      "D": "C12H12O11"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 79,
+    "question": "When excess chlorine is mixed with ethane at room temperature, the product formed is",
+    "options": {
+      "A": "1, 2-dichloroethane",
+      "B": "1, 2-dichloroethene",
+      "C": "1, 1-dichloroethane",
+      "D": "1, 1-dichloroethene"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 80,
+    "question": "Which of the following reagents could be used to distinguish between propan-1-ol and propan-2-ol?",
+    "options": {
+      "A": "H+/K2Cr2O7",
+      "B": "I2/OH-",
+      "C": "CH3COOH",
+      "D": "NaCl"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 81,
+    "question": "If a catalyst is added to a system at equilibrium and the temperature and pressure remain constant, there would be no effect on the",
+    "options": {
+      "A": "activation energy of the reaction",
+      "B": "rate of the forward reaction",
+      "C": "rate of the reverse reaction",
+      "D": "heat of reaction."
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 82,
+    "question": "Consider the following reaction equation: 3Cl2 + 2NH3 -> N2 + 6HCl. NH3 is acting as",
+    "options": {
+      "A": "a reducing agent",
+      "B": "a dehydrating agent",
+      "C": "a drying agent",
+      "D": "an oxidizing agent"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 83,
+    "question": "The oxidation number of chromium in Cr2O7^2- is",
+    "options": {
+      "A": "+4",
+      "B": "+5",
+      "C": "+6",
+      "D": "+7"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 84,
+    "question": "The process by which alkanoic acid reacts reversibly with alkanols is known as",
+    "options": {
+      "A": "saponification",
+      "B": "esterification",
+      "C": "carboxylation",
+      "D": "halogenation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 85,
+    "question": "If the oxidation potential of Mg and Al are +2.37 volts and +1.66 volts respectively, then Mg would",
+    "options": {
+      "A": "not replace Al",
+      "B": "be replaced by Al",
+      "C": "remain in the solution",
+      "D": "replace Al"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 86,
+    "question": "Consider the reaction represented by the following equation: 2SO2(g) + O2(g) <-> 2SO3(g). A decrease in pressure of the reaction would",
+    "options": {
+      "A": "decrease the concentration of SO2",
+      "B": "have no effect on the reaction",
+      "C": "shift the equilibrium position to the left",
+      "D": "shift the equilibrium position to the right"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 87,
+    "question": "In a mixture of gases which do not react chemically together, the pressure of the individual gas is",
+    "options": {
+      "A": "atmospheric pressure",
+      "B": "vapour pressure",
+      "C": "total pressure",
+      "D": "partial pressure"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 88,
+    "question": "Biotechnology is applied in the",
+    "options": {
+      "A": "treatment of sewage",
+      "B": "treatment of water",
+      "C": "purification of chemicals",
+      "D": "purification of metals"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 89,
+    "question": "Which of the following organic compounds has the lowest boiling point?",
+    "options": {
+      "A": "C6H14",
+      "B": "C5H12",
+      "C": "C4H10",
+      "D": "(CH3)3CH"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 90,
+    "question": "Consider the reaction represented by the following equation: C2H2 + H2 -> X --(H2)--> Y. X and Y respectively are",
+    "options": {
+      "A": "ethane and ethene",
+      "B": "ethene and ethane",
+      "C": "ethyne and ethene",
+      "D": "ethane and ethyne"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 91,
+    "question": "Which of the following substances can be classified as heavy chemical?",
+    "options": {
+      "A": "CaOCl2",
+      "B": "H2SO4",
+      "C": "AgNO4",
+      "D": "CaO"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 92,
+    "question": "In Boyle's law,",
+    "options": {
+      "A": "T is constant, while P varies directly with V",
+      "B": "P is constant, while V varies inversely with T",
+      "C": "V is constant, while P varies directly with T",
+      "D": "T is constant, while V varies inversely with P"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 93,
+    "question": "Which of the following apparatus is not used in volumetric analysis?",
+    "options": {
+      "A": "Pipette",
+      "B": "Burette",
+      "C": "Desiccator",
+      "D": "Conical flask"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 94,
+    "question": "One of the deductions from Rutherford's alpha particle scattering experiment is that",
+    "options": {
+      "A": "electrons are negatively charged",
+      "B": "electrons have negligible mass",
+      "C": "nuclei of atoms are positively charged",
+      "D": "protons are positively charged"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 95,
+    "question": "The atoms 6429Cu and 6530Zn have the same number of",
+    "options": {
+      "A": "nucleons",
+      "B": "electrons",
+      "C": "neutrons",
+      "D": "protons"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 96,
+    "question": "The number of electrons in the 3d orbital of 24Cr is",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 97,
+    "question": "The method used to collect a gas in the laboratory depends on its I. boiling point II. density III. smell IV. solubility in water",
+    "options": {
+      "A": "I and II only",
+      "B": "II and IV only",
+      "C": "III and IV only",
+      "D": "I, II and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 98,
+    "question": "Which of the following methods is not used for the separation of mixtures?",
+    "options": {
+      "A": "Chromatography",
+      "B": "Crystallization",
+      "C": "Distillation",
+      "D": "Electrolysis"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 99,
+    "question": "The group to which elements belong in the periodic table is determined by the number of",
+    "options": {
+      "A": "electrons",
+      "B": "core electrons",
+      "C": "valence shells",
+      "D": "valence electrons"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 100,
+    "question": "Kipps apparatus can be used to prepare",
+    "options": {
+      "A": "H2",
+      "B": "NH3",
+      "C": "O2",
+      "D": "H2S"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 101,
+    "question": "The periodic table is an arrangement of elements according to their",
+    "options": {
+      "A": "oxidation number",
+      "B": "atomic number",
+      "C": "mass number",
+      "D": "number of neutrons"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 102,
+    "question": "A solid substance with high melting and boiling points is likely to be",
+    "options": {
+      "A": "a covalent compound",
+      "B": "a dative covalent compound",
+      "C": "an electrovalent compound",
+      "D": "a non-metal"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 103,
+    "question": "Which of the following metals reacts slowly with cold water?",
+    "options": {
+      "A": "Iron",
+      "B": "Silver",
+      "C": "Calcium",
+      "D": "Potassium"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 104,
+    "question": "Which of the following elements has the highest ionization energy?",
+    "options": {
+      "A": "Calcium",
+      "B": "Chlorine",
+      "C": "Fluorine",
+      "D": "Magnesium"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 105,
+    "question": "The bleaching action of chlorine is through the process of",
+    "options": {
+      "A": "hydration",
+      "B": "hydrolysis",
+      "C": "reduction",
+      "D": "oxidation"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 106,
+    "question": "If 6.5g of magnesium ribbon reacts completely with hydrochloric acid, how many grams of hydrogen gas would be liberated? Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g) [H=1.0, Mg = 24.0]",
+    "options": {
+      "A": "0.54g",
+      "B": "0.70g",
+      "C": "1.08g",
+      "D": "1.40g"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 107,
+    "question": "Calcium and magnesium belong to the same group of the periodic table because both",
+    "options": {
+      "A": "are metals",
+      "B": "form cations",
+      "C": "form colourless salts",
+      "D": "have same number of valence electrons."
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 108,
+    "question": "Which of the following substances is non-polar?",
+    "options": {
+      "A": "Br2",
+      "B": "NF2",
+      "C": "H2O",
+      "D": "HBr"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 109,
+    "question": "Which of the following pairs of components have the same molecular mass? [H = 1.0, C = 12.0, O = 16.0]",
+    "options": {
+      "A": "Ethene and ethyne",
+      "B": "Ethane and ethene",
+      "C": "Carbon(II) oxide and ethene",
+      "D": "Carbon (IV) oxide and ethyne"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 110,
+    "question": "When an equilibrium is established between dissolved and undissolved solutes, the solution is said to be",
+    "options": {
+      "A": "saturated",
+      "B": "unsaturated",
+      "C": "concentrated",
+      "D": "dilute"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 111,
+    "question": "How many moles of carbon(IV) oxide contains 16.0g of oxygen? [C=12.0, O=16.0]",
+    "options": {
+      "A": "0.20mol",
+      "B": "0.25mol",
+      "C": "0.40mol",
+      "D": "0.50mol"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 112,
+    "question": "Stoichiometry is based on the law of",
+    "options": {
+      "A": "multiple proportion",
+      "B": "constant composition",
+      "C": "conservation of energy",
+      "D": "conservation of mass"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 113,
+    "question": "What is the percentage by mass of hydrogen in CH3COOH? [CH3COOH = 60]",
+    "options": {
+      "A": "1.7%",
+      "B": "5.0%",
+      "C": "6.7%",
+      "D": "7.1%"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 114,
+    "question": "Which of the following compounds has coordinate bonds in its structure?",
+    "options": {
+      "A": "Al2Cl6",
+      "B": "MgCl2",
+      "C": "AgCl",
+      "D": "NaCl"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 115,
+    "question": "The name of the compound CH3C(CH3)2CH2CH2CH3 is",
+    "options": {
+      "A": "2-methyl butane",
+      "B": "2,2-dimethyl butane",
+      "C": "2-methyl pentane",
+      "D": "2,2-dimethyl pentane"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 116,
+    "question": "The properties of a good primary standard include the following except",
+    "options": {
+      "A": "high molecular mass",
+      "B": "low molecular mass",
+      "C": "high degree of purity",
+      "D": "readily available"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 117,
+    "question": "What is the solubility of a salt X at 25°C if the saturated solution of the salt contains 0.28g in 100cm3 of solution? [X = 56.0g]",
+    "options": {
+      "A": "0.05mol dm-3",
+      "B": "0.10mol dm-3",
+      "C": "2.60mol dm-3",
+      "D": "2.80mol dm-3"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 118,
+    "question": "Vinegar is an aqueous solution of",
+    "options": {
+      "A": "hydrochloric acid",
+      "B": "ethanedioic acid",
+      "C": "ethanoic acid",
+      "D": "hydrofluoric acid"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 119,
+    "question": "Which of the following solutions containing one mole per dm3 of the compound would have the lowest pH?",
+    "options": {
+      "A": "Ethanoic acid",
+      "B": "Hydrochloric acid",
+      "C": "Sodium chloride",
+      "D": "Sodium hydrogentrioxocarbonate(IV)"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 120,
+    "question": "A sample of air was bubbled into water. The pH of the water slowly changed from 7 to 6. Which of the following gases in the sample caused the change?",
+    "options": {
+      "A": "Carbon(IV) oxide",
+      "B": "Carbon (II) oxide",
+      "C": "Nitrogen",
+      "D": "Oxygen"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 121,
+    "question": "The most suitable indicator for the reaction between NaOH(aq) and HCOOH(aq) is",
+    "options": {
+      "A": "bromocresol",
+      "B": "methyl orange",
+      "C": "methyl red",
+      "D": "phenolphthalein"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 122,
+    "question": "Consider the following reaction equation: 2Al(OH)3 + 3H2SO4 -> Al2(SO4)3 + 6H2O. How many moles of tetraoxosulphate(VI) acid is needed to produce 0.5mol of aluminium tetraoxosulphate (VI)?",
+    "options": {
+      "A": "0.5",
+      "B": "1.0",
+      "C": "1.5",
+      "D": "3.0"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 123,
+    "question": "Which of the following pairs of substances has the highest heat of neutralization?",
+    "options": {
+      "A": "Strong acid and strong base",
+      "B": "Weak acid and weak base",
+      "C": "Strong acid and weak base",
+      "D": "Weak acid and strong base"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 124,
+    "question": "When quicklime dissolves in water,",
+    "options": {
+      "A": "heat is absorbed",
+      "B": "heat is evolved",
+      "C": "oxygen is liberated",
+      "D": "hydrogen is given off"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 125,
+    "question": "If the value of ΔH is positive for a reaction, it means that the reaction is",
+    "options": {
+      "A": "exothermic",
+      "B": "endothermic",
+      "C": "spontaneous",
+      "D": "slow"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 126,
+    "question": "Which of the following compounds is formed by the oxidation of ethanol?",
+    "options": {
+      "A": "C2H4CO2H",
+      "B": "C2H5CO2H",
+      "C": "CH3OH",
+      "D": "CH3CO2H"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 127,
+    "question": "What is the characteristic of the gas liberated when dilute hydrochloric acid is added to iron(II) sulphide?",
+    "options": {
+      "A": "Turns lime water milky",
+      "B": "Decolorizes bromine water",
+      "C": "Gives a pop sound",
+      "D": "Turns lead (II) ethanoate paper black"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 128,
+    "question": "An organic compound contains 72% carbon, 12% hydrogen and 16% oxygen by mass. What is the empirical formula of the compound? [H=1.0, C = 12.0, O = 16.0]",
+    "options": {
+      "A": "C3H8O",
+      "B": "C6H12O",
+      "C": "C6H12O2",
+      "D": "C12H12O11"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 129,
+    "question": "When excess chlorine is mixed with ethane at room temperature, the product formed is",
+    "options": {
+      "A": "1, 2-dichloroethane",
+      "B": "1, 2-dichloroethene",
+      "C": "1, 1-dichloroethane",
+      "D": "1, 1-dichloroethene"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 130,
+    "question": "Which of the following reagents could be used to distinguish between propan-1-ol and propan-2-ol?",
+    "options": {
+      "A": "H+/K2Cr2O7",
+      "B": "I2/OH-",
+      "C": "CH3COOH",
+      "D": "NaCl"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 131,
+    "question": "If a catalyst is added to a system at equilibrium and the temperature and pressure remain constant, there would be no effect on the",
+    "options": {
+      "A": "activation energy of the reaction",
+      "B": "rate of the forward reaction",
+      "C": "rate of the reverse reaction",
+      "D": "heat of reaction."
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 132,
+    "question": "Consider the following reaction equation: 3Cl2 + 2NH3 -> N2 + 6HCl. NH3 is acting as",
+    "options": {
+      "A": "a reducing agent",
+      "B": "a dehydrating agent",
+      "C": "a drying agent",
+      "D": "an oxidizing agent"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 133,
+    "question": "The oxidation number of chromium in Cr2O7^2- is",
+    "options": {
+      "A": "+4",
+      "B": "+5",
+      "C": "+6",
+      "D": "+7"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 134,
+    "question": "The process by which alkanoic acid reacts reversibly with alkanols is known as",
+    "options": {
+      "A": "saponification",
+      "B": "esterification",
+      "C": "carboxylation",
+      "D": "halogenation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 135,
+    "question": "If the oxidation potential of Mg and Al are +2.37 volts and +1.66 volts respectively, then Mg would",
+    "options": {
+      "A": "not replace Al",
+      "B": "be replaced by Al",
+      "C": "remain in the solution",
+      "D": "replace Al"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 136,
+    "question": "Consider the reaction represented by the following equation: 2SO2(g) + O2(g) <-> 2SO3(g). A decrease in pressure of the reaction would",
+    "options": {
+      "A": "decrease the concentration of SO2",
+      "B": "have no effect on the reaction",
+      "C": "shift the equilibrium position to the left",
+      "D": "shift the equilibrium position to the right"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 137,
+    "question": "In a mixture of gases which do not react chemically together, the pressure of the individual gas is",
+    "options": {
+      "A": "atmospheric pressure",
+      "B": "vapour pressure",
+      "C": "total pressure",
+      "D": "partial pressure"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 138,
+    "question": "Biotechnology is applied in the",
+    "options": {
+      "A": "treatment of sewage",
+      "B": "treatment of water",
+      "C": "purification of chemicals",
+      "D": "purification of metals"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 139,
+    "question": "Which of the following organic compounds has the lowest boiling point?",
+    "options": {
+      "A": "C6H14",
+      "B": "C5H12",
+      "C": "C4H10",
+      "D": "(CH3)3CH"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 140,
+    "question": "Consider the reaction represented by the following equation: C2H2 + H2 -> X --(H2)--> Y. X and Y respectively are",
+    "options": {
+      "A": "ethane and ethene",
+      "B": "ethene and ethane",
+      "C": "ethyne and ethene",
+      "D": "ethane and ethyne"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 141,
+    "question": "Which of the following substances can be classified as heavy chemical?",
+    "options": {
+      "A": "CaOCl2",
+      "B": "H2SO4",
+      "C": "AgNO4",
+      "D": "CaO"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 142,
+    "question": "In Boyle's law,",
+    "options": {
+      "A": "T is constant, while P varies directly with V",
+      "B": "P is constant, while V varies inversely with T",
+      "C": "V is constant, while P varies directly with T",
+      "D": "T is constant, while V varies inversely with P"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 143,
+    "question": "Which of the following apparatus is not used in volumetric analysis?",
+    "options": {
+      "A": "Pipette",
+      "B": "Burette",
+      "C": "Desiccator",
+      "D": "Conical flask"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 144,
+    "question": "One of the deductions from Rutherford's alpha particle scattering experiment is that",
+    "options": {
+      "A": "electrons are negatively charged",
+      "B": "electrons have negligible mass",
+      "C": "nuclei of atoms are positively charged",
+      "D": "protons are positively charged"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 145,
+    "question": "The atoms 6429Cu and 6530Zn have the same number of",
+    "options": {
+      "A": "nucleons",
+      "B": "electrons",
+      "C": "neutrons",
+      "D": "protons"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 146,
+    "question": "The number of electrons in the 3d orbital of 24Cr is",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 147,
+    "question": "The method used to collect a gas in the laboratory depends on its I. boiling point II. density III. smell IV. solubility in water",
+    "options": {
+      "A": "I and II only",
+      "B": "II and IV only",
+      "C": "III and IV only",
+      "D": "I, II and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 148,
+    "question": "Which of the following methods is not used for the separation of mixtures?",
+    "options": {
+      "A": "Chromatography",
+      "B": "Crystallization",
+      "C": "Distillation",
+      "D": "Electrolysis"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 149,
+    "question": "The group to which elements belong in the periodic table is determined by the number of",
+    "options": {
+      "A": "electrons",
+      "B": "core electrons",
+      "C": "valence shells",
+      "D": "valence electrons"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 150,
+    "question": "Kipps apparatus can be used to prepare",
+    "options": {
+      "A": "H2",
+      "B": "NH3",
+      "C": "O2",
+      "D": "H2S"
+    },
+    "answer": "D"
+  }
+]

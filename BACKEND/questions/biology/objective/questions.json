@@ -1,0 +1,392 @@
+[
+  {
+    "id": "bio-obj-1",
+    "text": "Which of the following is the basic unit of life?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Atom" },
+      { "id": "b", "text": "Molecule" },
+      { "id": "c", "text": "Cell" },
+      { "id": "d", "text": "Tissue" }
+    ],
+    "correctAnswer": "c",
+    "explanation": "The cell is the basic structural and functional unit of all living organisms."
+  },
+  {
+    "id": "bio-obj-2",
+    "text": "What is the process by which plants make their own food?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Respiration" },
+      { "id": "b", "text": "Photosynthesis" },
+      { "id": "c", "text": "Fermentation" },
+      { "id": "d", "text": "Decomposition" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Photosynthesis is the process where plants convert light energy into chemical energy."
+  },
+  {
+    "id": "bio-obj-3",
+    "text": "Which organelle is responsible for producing energy in the cell?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Ribosome" },
+      { "id": "b", "text": "Mitochondrion" },
+      { "id": "c", "text": "Vacuole" },
+      { "id": "d", "text": "Lysosome" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Mitochondria are known as the powerhouse of the cell, producing ATP."
+  },
+  {
+    "id": "bio-obj-4",
+    "text": "What is the main function of the nervous system?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Transport oxygen" },
+      { "id": "b", "text": "Coordinate body activities" },
+      { "id": "c", "text": "Regulate body temperature" },
+      { "id": "d", "text": "Produce antibodies" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "The nervous system coordinates and controls all body activities through nerve impulses."
+  },
+  {
+    "id": "bio-obj-5",
+    "text": "Which of the following is a prokaryotic organism?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Fungi" },
+      { "id": "b", "text": "Bacteria" },
+      { "id": "c", "text": "Plant" },
+      { "id": "d", "text": "Animal" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Bacteria are prokaryotes - they lack a membrane-bound nucleus."
+  },
+  {
+    "id": "bio-obj-6",
+    "text": "What is the function of the enzyme amylase?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Break down proteins" },
+      { "id": "b", "text": "Break down fats" },
+      { "id": "c", "text": "Break down carbohydrates" },
+      { "id": "d", "text": "Build nucleic acids" }
+    ],
+    "correctAnswer": "c",
+    "explanation": "Amylase is an enzyme that breaks down carbohydrates into simpler sugars."
+  },
+  {
+    "id": "bio-obj-7",
+    "text": "Which blood type is considered the universal donor?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "AB+" },
+      { "id": "b", "text": "AB-" },
+      { "id": "c", "text": "O+" },
+      { "id": "d", "text": "O-" }
+    ],
+    "correctAnswer": "d",
+    "explanation": "O- blood type is the universal donor as it lacks A and B antigens."
+  },
+  {
+    "id": "bio-obj-8",
+    "text": "What is the process of cell division that produces gametes?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Mitosis" },
+      { "id": "b", "text": "Meiosis" },
+      { "id": "c", "text": "Cytokinesis" },
+      { "id": "d", "text": "Binary fission" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Meiosis is the type of cell division that produces gametes with half the chromosome number."
+  },
+  {
+    "id": "bio-obj-9",
+    "text": "What is the main structural component of the cell membrane?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Cellulose" },
+      { "id": "b", "text": "Chitin" },
+      { "id": "c", "text": "Phospholipid" },
+      { "id": "d", "text": "Protein" }
+    ],
+    "correctAnswer": "c",
+    "explanation": "The cell membrane is primarily composed of a phospholipid bilayer."
+  },
+  {
+    "id": "bio-obj-10",
+    "text": "Which hormone regulates blood glucose levels?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Thyroxine" },
+      { "id": "b", "text": "Insulin" },
+      { "id": "c", "text": "Adrenaline" },
+      { "id": "d", "text": "Glucagon" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Insulin is the hormone that lowers blood glucose levels by promoting glucose uptake."
+  },
+  {
+    "id": "bio-obj-11",
+    "text": "What is the primary function of the small intestine?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Digest starch" },
+      { "id": "b", "text": "Absorb nutrients" },
+      { "id": "c", "text": "Store bile" },
+      { "id": "d", "text": "Produce hydrochloric acid" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "The small intestine is the main site for nutrient absorption."
+  },
+  {
+    "id": "bio-obj-12",
+    "text": "Which of the following is a sexually transmitted disease?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Malaria" },
+      { "id": "b", "text": "HIV/AIDS" },
+      { "id": "c", "text": "Influenza" },
+      { "id": "d", "text": "Tuberculosis" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "HIV/AIDS can be transmitted sexually among other routes of transmission."
+  },
+  {
+    "id": "bio-obj-13",
+    "text": "What is the role of chlorophyll in photosynthesis?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Absorb carbon dioxide" },
+      { "id": "b", "text": "Absorb light energy" },
+      { "id": "c", "text": "Produce oxygen" },
+      { "id": "d", "text": "Transport water" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Chlorophyll absorbs light energy which drives the photosynthetic process."
+  },
+  {
+    "id": "bio-obj-14",
+    "text": "Which of the following is a characteristic of sexual reproduction?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Produces genetically identical offspring" },
+      { "id": "b", "text": "Produces genetically varied offspring" },
+      { "id": "c", "text": "Requires only one parent" },
+      { "id": "d", "text": "Is faster than asexual reproduction" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Sexual reproduction produces genetically varied offspring due to genetic material combination."
+  },
+  {
+    "id": "bio-obj-15",
+    "text": "What is the primary function of antibodies?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Transport oxygen" },
+      { "id": "b", "text": "Neutralize antigens" },
+      { "id": "c", "text": "Digest food" },
+      { "id": "d", "text": "Contract muscles" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Antibodies neutralize antigens and help protect the body from pathogens."
+  },
+  {
+    "id": "bio-obj-16",
+    "text": "Which type of muscle tissue is involuntary?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Skeletal muscle" },
+      { "id": "b", "text": "Cardiac muscle" },
+      { "id": "c", "text": "Smooth muscle" },
+      { "id": "d", "text": "Both B and C" }
+    ],
+    "correctAnswer": "d",
+    "explanation": "Both cardiac and smooth muscle are involuntary muscles."
+  },
+  {
+    "id": "bio-obj-17",
+    "text": "What is the function of the ribosome?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Store genetic information" },
+      { "id": "b", "text": "Produce proteins" },
+      { "id": "c", "text": "Break down waste" },
+      { "id": "d", "text": "Store energy" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Ribosomes are the sites of protein synthesis in the cell."
+  },
+  {
+    "id": "bio-obj-18",
+    "text": "Which of the following is an example of a population?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "All organisms in an area" },
+      { "id": "b", "text": "All members of one species in an area" },
+      { "id": "c", "text": "Different species living together" },
+      { "id": "d", "text": "All living things on Earth" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "A population consists of all members of one species in an area."
+  },
+  {
+    "id": "bio-obj-19",
+    "text": "What is the primary role of the kidney?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Produce hormones" },
+      { "id": "b", "text": "Filter blood and produce urine" },
+      { "id": "c", "text": "Absorb nutrients" },
+      { "id": "d", "text": "Transport oxygen" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "The kidney filters waste products from blood to produce urine."
+  },
+  {
+    "id": "bio-obj-20",
+    "text": "Which of the following best describes diffusion?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Movement against concentration gradient" },
+      { "id": "b", "text": "Movement from high to low concentration" },
+      { "id": "c", "text": "Movement requiring energy" },
+      { "id": "d", "text": "Movement of large molecules" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Diffusion is passive movement from high to low concentration."
+  },
+  {
+    "id": "bio-obj-21",
+    "text": "What is the carbon fixation process in photosynthesis also known as?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Light reaction" },
+      { "id": "b", "text": "Calvin cycle" },
+      { "id": "c", "text": "Electron transport" },
+      { "id": "d", "text": "Water splitting" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Calvin cycle is the dark reaction where CO2 is fixed into glucose."
+  },
+  {
+    "id": "bio-obj-22",
+    "text": "Which of the following is a product of aerobic respiration?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Lactic acid" },
+      { "id": "b", "text": "Ethanol" },
+      { "id": "c", "text": "Carbon dioxide and water" },
+      { "id": "d", "text": "Pyruvate" }
+    ],
+    "correctAnswer": "c",
+    "explanation": "Aerobic respiration produces CO2, water, and energy (ATP)."
+  },
+  {
+    "id": "bio-obj-23",
+    "text": "What is the main function of the liver?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Produce insulin" },
+      { "id": "b", "text": "Filter blood" },
+      { "id": "c", "text": "Detoxify substances and store nutrients" },
+      { "id": "d", "text": "Produce red blood cells" }
+    ],
+    "correctAnswer": "c",
+    "explanation": "The liver detoxifies harmful substances and stores nutrients."
+  },
+  {
+    "id": "bio-obj-24",
+    "text": "Which chromosome is typically found only in males?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "X chromosome" },
+      { "id": "b", "text": "Y chromosome" },
+      { "id": "c", "text": "Autosome 22" },
+      { "id": "d", "text": "X and Y chromosomes" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Y chromosome is typically found only in males."
+  },
+  {
+    "id": "bio-obj-25",
+    "text": "What is the role of transfer RNA (tRNA)?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Store genetic information" },
+      { "id": "b", "text": "Transfer amino acids to ribosomes" },
+      { "id": "c", "text": "Catalyze protein synthesis" },
+      { "id": "d", "text": "Regulate gene expression" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "tRNA transfers specific amino acids to ribosome during protein synthesis."
+  },
+  {
+    "id": "bio-obj-26",
+    "text": "Which organ is responsible for regulating body temperature?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Heart" },
+      { "id": "b", "text": "Brain" },
+      { "id": "c", "text": "Skin" },
+      { "id": "d", "text": "Lungs" }
+    ],
+    "correctAnswer": "c",
+    "explanation": "Skin plays a major role in thermoregulation."
+  },
+  {
+    "id": "bio-obj-27",
+    "text": "What is the function of the nucleus?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Produce energy" },
+      { "id": "b", "text": "Control cell activities" },
+      { "id": "c", "text": "Break down waste" },
+      { "id": "d", "text": "Store water" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Nucleus controls cell activities by regulating gene expression."
+  },
+  {
+    "id": "bio-obj-28",
+    "text": "Which of the following is an example of natural selection?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Selective breeding of crops" },
+      { "id": "b", "text": "Development of pesticide resistance in insects" },
+      { "id": "c", "text": "Genetic engineering" },
+      { "id": "d", "text": "Artificial hybridization" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Pesticide resistance development shows natural selection in action."
+  },
+  {
+    "id": "bio-obj-29",
+    "text": "What is the primary function of hemoglobin?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Fight infections" },
+      { "id": "b", "text": "Transport oxygen" },
+      { "id": "c", "text": "Clot blood" },
+      { "id": "d", "text": "Produce antibodies" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Hemoglobin is a protein in red blood cells that transports oxygen."
+  },
+  {
+    "id": "bio-obj-30",
+    "text": "Which of the following is a limiting factor in photosynthesis?",
+    "type": "objective",
+    "options": [
+      { "id": "a", "text": "Gravity" },
+      { "id": "b", "text": "Carbon dioxide concentration" },
+      { "id": "c", "text": "Soil pH" },
+      { "id": "d", "text": "Plant age" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "CO2 concentration is a limiting factor for photosynthesis rate."
+  }
+]

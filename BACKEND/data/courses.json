@@ -1,0 +1,117 @@
+[
+  {
+    "_id": "76oos1loq",
+    "title": "Introduction to ITC",
+    "description": "from zero to hero",
+    "thumbnail": "",
+    "subject": "IT",
+    "status": "published",
+    "price": 1500,
+    "level": "Beginner",
+    "totalDuration": "3h 45m",
+    "category": "IT",
+    "certificateEnabled": false,
+    "instructor": {
+      "name": "Ebrima Sowe",
+      "avatar": "https://console.cloudinary.com/app/c-9a48bd5110d3773a49c7dc6f2baf89/assets/media_library/search/asset/38f8c61ba74df198f0b3e885c73656d8/manage/summary?q=&view_mode=mosaic&context=manage",
+      "bio": "BSc in Information Technology"
+    },
+    "sections": [
+      {
+        "title": "Section 1",
+        "description": "Introduction to the course",
+        "objectives": [
+          "Understand the fundamentals",
+          "Learn core concepts",
+          "Practice applications"
+        ],
+        "order": 1,
+        "lessons": [
+          {
+            "title": "Introduction to ITC",
+            "videoUrl": "https://www.youtube.com/watch?v=ME_F9yypzsw&list=PLWPirh4EWFpHyWP7u5HOrr4s2-bycPpO6",
+            "sourceType": "YouTube",
+            "thumbnail": "",
+            "description": "from zero to hero",
+            "notes": "This is your first lesson",
+            "attachments": [],
+            "duration": "09:45",
+            "order": 1
+          },
+          {
+            "title": "Lesson 2",
+            "videoUrl": "https://www.youtube.com/watch?v=B54cm8TWTjI&list=PLWPirh4EWFpHyWP7u5HOrr4s2-bycPpO6&index=2",
+            "sourceType": "YouTube",
+            "thumbnail": "",
+            "description": "you will learn how to  format a text in ms word",
+            "notes": "now you can format text in word document\n",
+            "attachments": [],
+            "duration": "05:00",
+            "order": 2
+          }
+        ],
+        "resources": [],
+        "qa": [],
+        "announcements": []
+      }
+    ],
+    "students": [],
+    "createdAt": "2026-06-25T13:50:50.074Z",
+    "updatedAt": "2026-06-27T12:43:29.063Z"
+  },
+  {
+    "_id": "tjtkpq9tq",
+    "title": "Course Price Test",
+    "name": "Course Price Test",
+    "price": 500,
+    "currency": "GMD",
+    "category": "test",
+    "students": [],
+    "createdAt": "2026-09-11T13:00:35.341Z",
+    "updatedAt": "2026-09-11T13:00:35.341Z"
+  },
+  {
+    "_id": "vwjbnhbku",
+    "title": "Course Price Test",
+    "name": "Course Price Test",
+    "price": 500,
+    "currency": "GMD",
+    "category": "test",
+    "students": [],
+    "createdAt": "2026-09-11T13:02:09.799Z",
+    "updatedAt": "2026-09-11T13:02:09.799Z"
+  },
+  {
+    "_id": "cnabny46f",
+    "title": "Course Price Test",
+    "name": "Course Price Test",
+    "price": 500,
+    "currency": "GMD",
+    "category": "test",
+    "students": [],
+    "createdAt": "2026-09-11T15:28:43.465Z",
+    "updatedAt": "2026-09-11T15:28:43.465Z"
+  },
+  {
+    "_id": "nl1dj12ho",
+    "title": "Course Price Test",
+    "name": "Course Price Test",
+    "price": 500,
+    "currency": "GMD",
+    "category": "test",
+    "students": [],
+    "createdAt": "2026-09-13T14:49:16.981Z",
+    "updatedAt": "2026-09-13T14:49:16.981Z"
+  },
+  {
+    "_id": "5h7jkbixv",
+    "title": "Course Price Test",
+    "name": "Course Price Test",
+    "price": 500,
+    "currency": "GMD",
+    "category": "test",
+    "students": [],
+    "createdAt": "2026-09-16T01:28:17.032Z",
+    "updatedAt": "2026-09-16T01:28:17.032Z"
+  }
+]

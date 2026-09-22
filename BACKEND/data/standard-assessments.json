@@ -1,0 +1,193 @@
+[
+  {
+    "_id": "tz7hco9ae",
+    "name": "English Assessment",
+    "description": "Comprehensive English assessment with Objective, Theory, and Oral components",
+    "subject": "english",
+    "type": "global",
+    "duration": 180,
+    "totalMarks": 100,
+    "status": "published",
+    "price": 5000,
+    "subscription": "monthly",
+    "parts": [
+      {
+        "partName": "objective",
+        "partType": "Objective",
+        "duration": 45,
+        "totalQuestions": 50,
+        "totalMarks": 25,
+        "instructions": "Answer all 50 objective questions. Select the best option (A, B, C, or D).",
+        "sections": [
+          {
+            "name": "Section A",
+            "type": "standard",
+            "questionCount": 50,
+            "totalMarks": 25,
+            "instructions": "Multiple choice questions",
+            "bankPath": "english/objective",
+            "files": [
+              "section1.json",
+              "section2.json",
+              "section3.json",
+              "section4.json",
+              "section5.json",
+              "section6.json"
+            ]
+          }
+        ]
+      },
+      {
+        "partName": "theory",
+        "partType": "Theory",
+        "duration": 120,
+        "totalQuestions": 4,
+        "totalMarks": 60,
+        "instructions": "Complete all theory sections. Choose essay type, answer comprehension, and write a summary.",
+        "sections": [
+          {
+            "name": "Essay",
+            "type": "essay",
+            "questionCount": 1,
+            "totalMarks": 30,
+            "instructions": "Write an essay (450-500 words). Choose one type: Letter, Article, Debate, or Story.",
+            "bankPath": "english/theory/essay"
+          },
+          {
+            "name": "Comprehension",
+            "type": "comprehension",
+            "questionCount": 2,
+            "totalMarks": 20,
+            "instructions": "Answer comprehension questions based on the provided passage.",
+            "bankPath": "english/theory/comprehension",
+            "files": [
+              "comprehension1.json",
+              "comprehension2.json"
+            ]
+          },
+          {
+            "name": "Summary",
+            "type": "summary",
+            "questionCount": 1,
+            "totalMarks": 10,
+            "instructions": "Write a summary (150-200 words) of the given passage.",
+            "bankPath": "english/theory/summary"
+          }
+        ],
+        "theoryMarkingConfig": {
+          "enabled": true,
+          "aiProvider": "gemini",
+          "sections": {
+            "essay": {
+              "enabled": true,
+              "totalMarks": 30,
+              "categories": {
+                "Content": 12,
+                "Organization": 8,
+                "Expression": 7,
+                "MechanicalAccuracy": 3
+              },
+              "essayTypes": [
+                "letter",
+                "article",
+                "debate",
+                "story"
+              ]
+            },
+            "comprehension": {
+              "enabled": true,
+              "totalMarks": 20
+            },
+            "summary": {
+              "enabled": true,
+              "totalMarks": 10
+            }
+          },
+          "cacheResults": true,
+          "allowAdminOverride": true
+        }
+      },
+      {
+        "partName": "oral",
+        "partType": "Oral",
+        "duration": 15,
+        "totalQuestions": 3,
+        "totalMarks": 15,
+        "instructions": "Record your response to 3 oral questions. Speak clearly and concisely (1-2 minutes per question).",
+        "sections": [
+          {
+            "name": "Section A",
+            "type": "standard",
+            "questionCount": 3,
+            "totalMarks": 15,
+            "instructions": "Listen to each question and record your response.",
+            "bankPath": "english/oral",
+            "files": [
+              "oral1.json",
+              "oral2.json",
+              "oral3.json"
+            ]
+          }
+        ]
+      }
+    ],
+    "randomizeQuestions": true,
+    "autoSubmit": true,
+    "antiCheat": {
+      "enabled": true,
+      "fullscreen": true,
+      "tabSwitchDetection": true,
+      "copyPasteDisabled": true,
+      "inspectDisabled": true,
+      "maxWarnings": 3,
+      "exitAction": "auto-submit"
+    },
+    "markingScheme": {
+      "autoMark": true,
+      "aiTheoryMarking": true,
+      "markingGuide": "Objective: 0.5 marks per correct answer. Theory: AI-marked using rubric. Oral: Manual marking."
+    },
+    "retakeRules": {
+      "allowRetake": true,
+      "maxAttempts": 2,
+      "retakeDelay": 7
+    },
+    "createdAt": "2026-06-06T03:02:01.589Z",
+    "updatedAt": "2026-06-06T03:02:01.615Z"
+  },
+  {
+    "_id": "sa_test_1",
+    "name": "Physics Standard",
+    "subject": "physics",
+    "createdAt": "2026-08-08T19:14:56.818Z",
+    "updatedAt": "2026-08-08T19:14:56.818Z"
+  },
+  {
+    "_id": "sa_q_test_1",
+    "name": "Physics Standard",
+    "subject": "physics",
+    "createdAt": "2026-08-08T19:31:11.298Z",
+    "updatedAt": "2026-08-08T19:31:11.298Z"
+  },
+  {
+    "_id": "sa_q_test_1",
+    "name": "Physics Standard",
+    "subject": "physics",
+    "createdAt": "2026-08-08T19:31:56.988Z",
+    "updatedAt": "2026-08-08T19:31:56.988Z"
+  },
+  {
+    "_id": "sa_q_test_1",
+    "name": "Physics Standard",
+    "subject": "physics",
+    "createdAt": "2026-08-08T19:33:42.161Z",
+    "updatedAt": "2026-08-08T19:33:42.161Z"
+  },
+  {
+    "_id": "sa_q_test_1",
+    "name": "Physics Standard",
+    "subject": "physics",
+    "createdAt": "2026-08-08T19:34:46.267Z",
+    "updatedAt": "2026-08-08T19:34:46.267Z"
+  }
+]

@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Admin Enroll</title>
+    <style>body{font-family:Arial;padding:16px}label{display:block;margin-top:8px}button{margin-top:12px}</style>
+  </head>
+  <body>
+    <h3>Admin Enroll User</h3>
+    <label>Admin Email <input id="email" value="admin@esnex.com"/></label>
+    <label>Password <input id="password" value="Admin1234"/></label>
+    <label>User ID <input id="userId" value="6a14599e48d9114de54e63b0"/></label>
+    <label>Product Type <input id="productType" value="assessment"/></label>
+    <label>Product ID <input id="productId" value="vwwo5yfu1"/></label>
+    <button id="run">Enroll</button>
+    <pre id="out" style="background:#f7f7f7;padding:12px;margin-top:12px"></pre>
+
+    <script>
+      async function run(){
+        const email = document.getElementById('email').value;
+        const password = document.getElementById('password').value;
+        const login = await fetch('/api/auth/login', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({email,password}) });
+        const jl = await login.json();
+        if (!jl.token) return document.getElementById('out').textContent = JSON.stringify(jl, null, 2);
+        const token = jl.token;
+        const userId = document.getElementById('userId').value;
+        const productType = document.getElementById('productType').value;
+        const productId = document.getElementById('productId').value;
+        const res = await fetch(`/api/auth/users/${userId}/enroll`, { method:'POST', headers:{'Content-Type':'application/json', Authorization:`Bearer ${token}`}, body: JSON.stringify({ productType, productId }) });
+        const body = await res.json();
+        document.getElementById('out').textContent = JSON.stringify({ status: res.status, body }, null, 2);
+      }
+      document.getElementById('run').addEventListener('click', run);
+    </script>
+  </body>
+</html>

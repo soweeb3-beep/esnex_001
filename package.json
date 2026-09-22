@@ -1,0 +1,21 @@
+{
+  "name": "esnex-technologies-center",
+  "version": "1.0.0",
+  "description": "Full-stack learning platform",
+  "scripts": {
+    "install:all": "npm run install:backend && npm run install:frontend",
+    "install:backend": "cd BACKEND && npm install",
+    "install:frontend": "cd FRONTEND/esnex-frontend && npm install",
+    "start": "npm run start:backend & npm run start:frontend",
+    "start:backend": "cd BACKEND && npm run dev",
+    "start:frontend": "cd FRONTEND/esnex-frontend && npm run dev",
+    "build:frontend": "cd FRONTEND/esnex-frontend && npm run build",
+    "dev": "npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-hot-toast": "^2.6.0"
+  }
+}

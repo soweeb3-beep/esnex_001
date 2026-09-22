@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "xt4cgcp4t",
+    "certificateId": "CERT-2026-0001",
+    "student": "oemxzvu4j",
+    "studentName": "Mariam Sowe",
+    "studentEmail": "mariam@gmail.com",
+    "course": "76oos1loq",
+    "courseName": "Introduction to ITC",
+    "issuedBy": null,
+    "issuedByName": "ESNEX Admin",
+    "issuedDate": "2026-09-14T00:00:00.000Z",
+    "status": "Valid",
+    "template": "Premium Corporate",
+    "verificationData": {
+      "certificateId": "CERT-2026-0001",
+      "studentName": "Mariam Sowe",
+      "course": "Introduction to ITC",
+      "issueDate": "2026-09-14",
+      "status": "Valid",
+      "verificationUrl": "https://giant-spoons-return.loca.lt/verify-certificate/CERT-2026-0001",
+      "qrDetails": "Scan the QR code to verify this certificate."
+    },
+    "note": "",
+    "createdAt": "2026-09-14T22:02:36.829Z",
+    "updatedAt": "2026-09-14T22:02:36.829Z"
+  }
+]

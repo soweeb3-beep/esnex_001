@@ -1,0 +1,1709 @@
+[
+  {
+    "_id": "q0zn5hw9t",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "assessmentId": "sa_test_1",
+    "studentId": "stu_test_1",
+    "status": "in-progress",
+    "sessionToken": "session_1786216497115_kz2ivozc3",
+    "startedAt": "2026-08-08T19:14:57.115Z",
+    "timeLeft": 2400,
+    "duration": 40,
+    "totalMarks": 60,
+    "questions": [
+      {
+        "questionId": "oral-wassce-1",
+        "questionIndex": 0,
+        "text": "Oral question 1",
+        "prompt": "Oral question 1",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-2",
+        "questionIndex": 1,
+        "text": "Oral question 2",
+        "prompt": "Oral question 2",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-3",
+        "questionIndex": 2,
+        "text": "Oral question 3",
+        "prompt": "Oral question 3",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-4",
+        "questionIndex": 3,
+        "text": "Oral question 4",
+        "prompt": "Oral question 4",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-5",
+        "questionIndex": 4,
+        "text": "Oral question 5",
+        "prompt": "Oral question 5",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-6",
+        "questionIndex": 5,
+        "text": "Oral question 6",
+        "prompt": "Oral question 6",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-7",
+        "questionIndex": 6,
+        "text": "Oral question 7",
+        "prompt": "Oral question 7",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-8",
+        "questionIndex": 7,
+        "text": "Oral question 8",
+        "prompt": "Oral question 8",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-9",
+        "questionIndex": 8,
+        "text": "Oral question 9",
+        "prompt": "Oral question 9",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-10",
+        "questionIndex": 9,
+        "text": "Oral question 10",
+        "prompt": "Oral question 10",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-11",
+        "questionIndex": 10,
+        "text": "Oral question 11",
+        "prompt": "Oral question 11",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-12",
+        "questionIndex": 11,
+        "text": "Oral question 12",
+        "prompt": "Oral question 12",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-13",
+        "questionIndex": 12,
+        "text": "Oral question 13",
+        "prompt": "Oral question 13",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-14",
+        "questionIndex": 13,
+        "text": "Oral question 14",
+        "prompt": "Oral question 14",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-15",
+        "questionIndex": 14,
+        "text": "Oral question 15",
+        "prompt": "Oral question 15",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-16",
+        "questionIndex": 15,
+        "text": "Oral question 16",
+        "prompt": "Oral question 16",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-17",
+        "questionIndex": 16,
+        "text": "Oral question 17",
+        "prompt": "Oral question 17",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-18",
+        "questionIndex": 17,
+        "text": "Oral question 18",
+        "prompt": "Oral question 18",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-19",
+        "questionIndex": 18,
+        "text": "Oral question 19",
+        "prompt": "Oral question 19",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-20",
+        "questionIndex": 19,
+        "text": "Oral question 20",
+        "prompt": "Oral question 20",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-21",
+        "questionIndex": 20,
+        "text": "Oral question 21",
+        "prompt": "Oral question 21",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-22",
+        "questionIndex": 21,
+        "text": "Oral question 22",
+        "prompt": "Oral question 22",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-23",
+        "questionIndex": 22,
+        "text": "Oral question 23",
+        "prompt": "Oral question 23",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-24",
+        "questionIndex": 23,
+        "text": "Oral question 24",
+        "prompt": "Oral question 24",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-25",
+        "questionIndex": 24,
+        "text": "Oral question 25",
+        "prompt": "Oral question 25",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-26",
+        "questionIndex": 25,
+        "text": "Oral question 26",
+        "prompt": "Oral question 26",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-27",
+        "questionIndex": 26,
+        "text": "Oral question 27",
+        "prompt": "Oral question 27",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-28",
+        "questionIndex": 27,
+        "text": "Oral question 28",
+        "prompt": "Oral question 28",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-29",
+        "questionIndex": 28,
+        "text": "Oral question 29",
+        "prompt": "Oral question 29",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-30",
+        "questionIndex": 29,
+        "text": "Oral question 30",
+        "prompt": "Oral question 30",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-31",
+        "questionIndex": 30,
+        "text": "Oral question 31",
+        "prompt": "Oral question 31",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-32",
+        "questionIndex": 31,
+        "text": "Oral question 32",
+        "prompt": "Oral question 32",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-33",
+        "questionIndex": 32,
+        "text": "Oral question 33",
+        "prompt": "Oral question 33",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-34",
+        "questionIndex": 33,
+        "text": "Oral question 34",
+        "prompt": "Oral question 34",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-35",
+        "questionIndex": 34,
+        "text": "Oral question 35",
+        "prompt": "Oral question 35",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-36",
+        "questionIndex": 35,
+        "text": "Oral question 36",
+        "prompt": "Oral question 36",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-37",
+        "questionIndex": 36,
+        "text": "Oral question 37",
+        "prompt": "Oral question 37",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-38",
+        "questionIndex": 37,
+        "text": "Oral question 38",
+        "prompt": "Oral question 38",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-39",
+        "questionIndex": 38,
+        "text": "Oral question 39",
+        "prompt": "Oral question 39",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-40",
+        "questionIndex": 39,
+        "text": "Oral question 40",
+        "prompt": "Oral question 40",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-41",
+        "questionIndex": 40,
+        "text": "Oral question 41",
+        "prompt": "Oral question 41",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-42",
+        "questionIndex": 41,
+        "text": "Oral question 42",
+        "prompt": "Oral question 42",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-43",
+        "questionIndex": 42,
+        "text": "Oral question 43",
+        "prompt": "Oral question 43",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-44",
+        "questionIndex": 43,
+        "text": "Oral question 44",
+        "prompt": "Oral question 44",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-45",
+        "questionIndex": 44,
+        "text": "Oral question 45",
+        "prompt": "Oral question 45",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-46",
+        "questionIndex": 45,
+        "text": "Oral question 46",
+        "prompt": "Oral question 46",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-47",
+        "questionIndex": 46,
+        "text": "Oral question 47",
+        "prompt": "Oral question 47",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-48",
+        "questionIndex": 47,
+        "text": "Oral question 48",
+        "prompt": "Oral question 48",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-49",
+        "questionIndex": 48,
+        "text": "Oral question 49",
+        "prompt": "Oral question 49",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-50",
+        "questionIndex": 49,
+        "text": "Oral question 50",
+        "prompt": "Oral question 50",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-51",
+        "questionIndex": 50,
+        "text": "Oral question 51",
+        "prompt": "Oral question 51",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-52",
+        "questionIndex": 51,
+        "text": "Oral question 52",
+        "prompt": "Oral question 52",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-53",
+        "questionIndex": 52,
+        "text": "Oral question 53",
+        "prompt": "Oral question 53",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-54",
+        "questionIndex": 53,
+        "text": "Oral question 54",
+        "prompt": "Oral question 54",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-55",
+        "questionIndex": 54,
+        "text": "Oral question 55",
+        "prompt": "Oral question 55",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-56",
+        "questionIndex": 55,
+        "text": "Oral question 56",
+        "prompt": "Oral question 56",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-57",
+        "questionIndex": 56,
+        "text": "Oral question 57",
+        "prompt": "Oral question 57",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-58",
+        "questionIndex": 57,
+        "text": "Oral question 58",
+        "prompt": "Oral question 58",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-59",
+        "questionIndex": 58,
+        "text": "Oral question 59",
+        "prompt": "Oral question 59",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      },
+      {
+        "questionId": "oral-wassce-60",
+        "questionIndex": 59,
+        "text": "Oral question 60",
+        "prompt": "Oral question 60",
+        "type": "oral",
+        "questionType": "oral",
+        "oralType": "wassce",
+        "oralYear": null
+      }
+    ],
+    "total": 60,
+    "fullAudio": null,
+    "oralType": "wassce",
+    "oralYear": null,
+    "createdAt": "2026-08-08T19:14:57.117Z",
+    "updatedAt": "2026-08-08T19:14:57.117Z"
+  },
+  {
+    "_id": "att_test_autosave",
+    "assessmentId": "a_test_autosave",
+    "studentId": "u_test_autosave",
+    "status": "in-progress",
+    "questions": [
+      {
+        "questionId": "q1",
+        "text": "Q1"
+      }
+    ],
+    "createdAt": "2026-08-09T00:16:29.379Z",
+    "updatedAt": "2026-08-09T00:16:29.408Z",
+    "answers": [
+      {
+        "studentAnswer": "Test answer",
+        "questionId": "q1",
+        "questionIndex": 0,
+        "questionText": "Q1",
+        "questionType": "short-answer",
+        "totalMarks": 1,
+        "timestamp": "2026-08-09T00:16:29.393Z"
+      }
+    ],
+    "lastAutoSave": "2026-08-09T00:16:29.394Z",
+    "tabSwitches": 1,
+    "warnings": 1
+  },
+  {
+    "_id": "att_test_threshold",
+    "assessmentId": "a_test_threshold",
+    "studentId": "u_test_threshold",
+    "status": "submitted",
+    "questions": [],
+    "createdAt": "2026-08-09T00:21:33.026Z",
+    "updatedAt": "2026-08-09T00:21:33.061Z",
+    "tabSwitches": 2,
+    "warnings": 2,
+    "submittedAt": "2026-08-09T00:21:33.058Z"
+  },
+  {
+    "_id": "luvl7p0m3",
+    "studentId": "6a77d320c07add9c5b4a7b02",
+    "assessmentId": "6a77d320c07add9c5b4a7b03",
+    "status": "in-progress",
+    "questions": [],
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:08:48.902Z",
+    "updatedAt": "2026-08-09T01:08:48.907Z"
+  },
+  {
+    "_id": "4ci74g82o",
+    "studentId": "6a77d35574e4a9618df0c240",
+    "assessmentId": "6a77d35574e4a9618df0c241",
+    "status": "in-progress",
+    "questions": [],
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:09:41.875Z",
+    "updatedAt": "2026-08-09T01:09:41.876Z"
+  },
+  {
+    "_id": "zp9f5mkzr",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77d3951d1d894a25da005b",
+    "assessmentId": "6a77d3951d1d894a25da005c",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:10:45.811Z",
+    "updatedAt": "2026-08-09T01:10:45.813Z"
+  },
+  {
+    "_id": "g7ez3qj1j",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77d3bc035bc5a69ca926a9",
+    "assessmentId": "6a77d3bc035bc5a69ca926aa",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 1,
+    "warnings": 1,
+    "createdAt": "2026-08-09T01:11:24.372Z",
+    "updatedAt": "2026-08-09T01:11:24.385Z"
+  },
+  {
+    "_id": "ex33223oe",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77d6280ef49a1153aa3e03",
+    "assessmentId": "6a77d6280ef49a1153aa3e04",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 1,
+    "warnings": 1,
+    "createdAt": "2026-08-09T01:21:44.774Z",
+    "updatedAt": "2026-08-09T01:21:44.792Z"
+  },
+  {
+    "_id": "n67nnsbb1",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77d6d3c3d7844c1986142e",
+    "assessmentId": "6a77d6d3c3d7844c1986142f",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:24:35.364Z",
+    "updatedAt": "2026-08-09T01:24:35.366Z"
+  },
+  {
+    "_id": "xd6jozowb",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77d76aecc32017752b6cf3",
+    "assessmentId": "6a77d76aecc32017752b6cf4",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:27:06.043Z",
+    "updatedAt": "2026-08-09T01:27:06.045Z"
+  },
+  {
+    "_id": "gprqzqat3",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77da1dcefc7c6f23c19288",
+    "assessmentId": "6a77da1dcefc7c6f23c19289",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:38:37.934Z",
+    "updatedAt": "2026-08-09T01:38:37.938Z"
+  },
+  {
+    "_id": "bx8u8ymyw",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77dabc663a98144182003b",
+    "assessmentId": "6a77dabc663a98144182003c",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:41:16.528Z",
+    "updatedAt": "2026-08-09T01:41:16.530Z"
+  },
+  {
+    "_id": "3lrpffhk3",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77dae28d71eb5832761ef1",
+    "assessmentId": "6a77dae28d71eb5832761ef2",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:41:54.173Z",
+    "updatedAt": "2026-08-09T01:41:54.174Z"
+  },
+  {
+    "_id": "mg2a7idbe",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a77dc38ac664d9732b915df",
+    "assessmentId": "6a77dc38ac664d9732b915e0",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-09T01:47:36.513Z",
+    "updatedAt": "2026-08-09T01:47:36.516Z"
+  },
+  {
+    "_id": "vn8tdfnq6",
+    "assessmentType": "standard",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "6a7de34c96d73d59bc0868e8",
+    "assessmentId": "6a7de34c96d73d59bc0868e9",
+    "status": "in-progress",
+    "questions": [],
+    "totalMarks": 100,
+    "duration": 60,
+    "tabSwitches": 0,
+    "warnings": 0,
+    "createdAt": "2026-08-13T15:31:24.895Z",
+    "updatedAt": "2026-08-13T15:31:24.897Z"
+  },
+  {
+    "_id": "69zjurg6u",
+    "assessmentType": "standard",
+    "assessmentId": "bcq6izutv",
+    "assessmentTypeRef": "StandardAssessment",
+    "studentId": "alpha_user_001",
+    "status": "in-progress",
+    "sessionToken": "session_1789137713610_uc7y3cmfc",
+    "startedAt": "2026-09-11T14:41:53.611Z",
+    "duration": 10,
+    "timeLeft": 600,
+    "totalMarks": 100,
+    "selectedPart": "A",
+    "fullAudio": null,
+    "oralType": null,
+    "oralYear": null,
+    "oralMode": null,
+    "answers": [],
+    "questions": [
+      {
+        "question_number": 8,
+        "question": "In which of the following compounds does hydrogen form ionic compounds?",
+        "options": [
+          "CH4",
+          "HCl",
+          "NH3",
+          "NaH"
+        ],
+        "answer": "NaH",
+        "questionId": "chemistry/objective_7",
+        "text": "In which of the following compounds does hydrogen form ionic compounds?",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "NaH"
+      },
+      {
+        "question_number": 107,
+        "question": "Calcium and magnesium belong to the same group of the periodic table because both",
+        "options": [
+          "are metals",
+          "form cations",
+          "form colourless salts",
+          "have same number of valence electrons."
+        ],
+        "answer": "have same number of valence electrons.",
+        "questionId": "chemistry/objective_106",
+        "text": "Calcium and magnesium belong to the same group of the periodic table because both",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "have same number of valence electrons."
+      },
+      {
+        "question_number": 32,
+        "question": "How many atoms are contained in 0.2 moles of nitrogen? [NA=6.02 x 10^23]",
+        "options": [
+          "1.20 x 10^23",
+          "2.41 x 10^23",
+          "3.62 x 10^23",
+          "4.82 x 10^23"
+        ],
+        "answer": "1.20 x 10^23",
+        "questionId": "chemistry/objective_31",
+        "text": "How many atoms are contained in 0.2 moles of nitrogen? [NA=6.02 x 10^23]",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "1.20 x 10^23"
+      },
+      {
+        "question_number": 78,
+        "question": "An organic compound contains 72% carbon, 12% hydrogen and 16% oxygen by mass. What is the empirical formula of the compound? [H=1.0, C = 12.0, O = 16.0]",
+        "options": [
+          "C3H8O",
+          "C6H12O",
+          "C6H12O2",
+          "C12H12O11"
+        ],
+        "answer": "C6H12O2",
+        "questionId": "chemistry/objective_77",
+        "text": "An organic compound contains 72% carbon, 12% hydrogen and 16% oxygen by mass. What is the empirical formula of the compound? [H=1.0, C = 12.0, O = 16.0]",
+        "sampleAnswer": "C",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "C6H12O2"
+      },
+      {
+        "question_number": 134,
+        "question": "The process by which alkanoic acid reacts reversibly with alkanols is known as",
+        "options": [
+          "saponification",
+          "esterification",
+          "carboxylation",
+          "halogenation"
+        ],
+        "answer": "esterification",
+        "questionId": "chemistry/objective_133",
+        "text": "The process by which alkanoic acid reacts reversibly with alkanols is known as",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "esterification"
+      },
+      {
+        "question_number": 98,
+        "question": "Which of the following methods is not used for the separation of mixtures?",
+        "options": [
+          "Chromatography",
+          "Crystallization",
+          "Distillation",
+          "Electrolysis"
+        ],
+        "answer": "Electrolysis",
+        "questionId": "chemistry/objective_97",
+        "text": "Which of the following methods is not used for the separation of mixtures?",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Electrolysis"
+      },
+      {
+        "question_number": 2,
+        "question": "Which of the following organic compounds can undergo both addition and substitution reactions?",
+        "options": [
+          "Pentane",
+          "benzene",
+          "Propane",
+          "Hexane"
+        ],
+        "answer": "benzene",
+        "questionId": "chemistry/objective_1",
+        "text": "Which of the following organic compounds can undergo both addition and substitution reactions?",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "benzene"
+      },
+      {
+        "question_number": 65,
+        "question": "The name of the compound CH3C(CH3)2CH2CH2CH3 is",
+        "options": [
+          "2-methyl butane",
+          "2,2-dimethyl butane",
+          "2-methyl pentane",
+          "2,2-dimethyl pentane"
+        ],
+        "answer": "2,2-dimethyl pentane",
+        "questionId": "chemistry/objective_64",
+        "text": "The name of the compound CH3C(CH3)2CH2CH2CH3 is",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "2,2-dimethyl pentane"
+      },
+      {
+        "question_number": 131,
+        "question": "If a catalyst is added to a system at equilibrium and the temperature and pressure remain constant, there would be no effect on the",
+        "options": [
+          "activation energy of the reaction",
+          "rate of the forward reaction",
+          "rate of the reverse reaction",
+          "heat of reaction."
+        ],
+        "answer": "heat of reaction.",
+        "questionId": "chemistry/objective_130",
+        "text": "If a catalyst is added to a system at equilibrium and the temperature and pressure remain constant, there would be no effect on the",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "heat of reaction."
+      },
+      {
+        "question_number": 7,
+        "question": "A reaction is endothermic if the",
+        "options": [
+          "reaction vessel feels cool during the reaction",
+          "enthalpy change is negative",
+          "bond forming energy exceeds bond breaking energy",
+          "heat of formation of reactants exceeds heat of formation of products."
+        ],
+        "answer": "reaction vessel feels cool during the reaction",
+        "questionId": "chemistry/objective_6",
+        "text": "A reaction is endothermic if the",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "reaction vessel feels cool during the reaction"
+      },
+      {
+        "question_number": 40,
+        "question": "The law of definite proportions states that",
+        "options": [
+          "pure samples of the same compound contain the same elements combined in the same proportion by mass",
+          "pure samples of substances are in the same proportion by mass",
+          "chemical compounds are pure because they contain the same elements",
+          "matter can neither be created nor destroyed"
+        ],
+        "answer": "pure samples of the same compound contain the same elements combined in the same proportion by mass",
+        "questionId": "chemistry/objective_39",
+        "text": "The law of definite proportions states that",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "pure samples of the same compound contain the same elements combined in the same proportion by mass"
+      },
+      {
+        "question_number": 74,
+        "question": "When quicklime dissolves in water,",
+        "options": [
+          "heat is absorbed",
+          "heat is evolved",
+          "oxygen is liberated",
+          "hydrogen is given off"
+        ],
+        "answer": "heat is evolved",
+        "questionId": "chemistry/objective_73",
+        "text": "When quicklime dissolves in water,",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "heat is evolved"
+      },
+      {
+        "question_number": 3,
+        "question": "Which of the following equations represents a redox reaction?",
+        "options": [
+          "AgNO3(aq) + KCL(aq) -> AgCl(s) + KNO3(aq)",
+          "HNO3(aq) + NaOH(aq) -> NaNO3(aq) + H2O(l)",
+          "CaCO3(s) -> CaO(s) + CO2(g)",
+          "2H2S(g) + SO2(g) -> 2H2O(l) + 3S(s)"
+        ],
+        "answer": "2H2S(g) + SO2(g) -> 2H2O(l) + 3S(s)",
+        "questionId": "chemistry/objective_2",
+        "text": "Which of the following equations represents a redox reaction?",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "2H2S(g) + SO2(g) -> 2H2O(l) + 3S(s)"
+      },
+      {
+        "question_number": 106,
+        "question": "If 6.5g of magnesium ribbon reacts completely with hydrochloric acid, how many grams of hydrogen gas would be liberated? Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g) [H=1.0, Mg = 24.0]",
+        "options": [
+          "0.54g",
+          "0.70g",
+          "1.08g",
+          "1.40g"
+        ],
+        "answer": "0.54g",
+        "questionId": "chemistry/objective_105",
+        "text": "If 6.5g of magnesium ribbon reacts completely with hydrochloric acid, how many grams of hydrogen gas would be liberated? Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g) [H=1.0, Mg = 24.0]",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "0.54g"
+      },
+      {
+        "question_number": 14,
+        "question": "Pure water can be made to boil at a temperature lower than 100°C by",
+        "options": [
+          "reducing its quantity",
+          "decreasing the external pressure",
+          "distilling it",
+          "increasing the external pressure."
+        ],
+        "answer": "increasing the external pressure.",
+        "questionId": "chemistry/objective_13",
+        "text": "Pure water can be made to boil at a temperature lower than 100°C by",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "increasing the external pressure."
+      },
+      {
+        "question_number": 79,
+        "question": "When excess chlorine is mixed with ethane at room temperature, the product formed is",
+        "options": [
+          "1, 2-dichloroethane",
+          "1, 2-dichloroethene",
+          "1, 1-dichloroethane",
+          "1, 1-dichloroethene"
+        ],
+        "answer": "1, 2-dichloroethane",
+        "questionId": "chemistry/objective_78",
+        "text": "When excess chlorine is mixed with ethane at room temperature, the product formed is",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "1, 2-dichloroethane"
+      },
+      {
+        "question_number": 147,
+        "question": "The method used to collect a gas in the laboratory depends on its I. boiling point II. density III. smell IV. solubility in water",
+        "options": [
+          "I and II only",
+          "II and IV only",
+          "III and IV only",
+          "I, II and IV"
+        ],
+        "answer": "I and II only",
+        "questionId": "chemistry/objective_146",
+        "text": "The method used to collect a gas in the laboratory depends on its I. boiling point II. density III. smell IV. solubility in water",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "I and II only"
+      },
+      {
+        "question_number": 126,
+        "question": "Which of the following compounds is formed by the oxidation of ethanol?",
+        "options": [
+          "C2H4CO2H",
+          "C2H5CO2H",
+          "CH3OH",
+          "CH3CO2H"
+        ],
+        "answer": "CH3CO2H",
+        "questionId": "chemistry/objective_125",
+        "text": "Which of the following compounds is formed by the oxidation of ethanol?",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "CH3CO2H"
+      },
+      {
+        "question_number": 77,
+        "question": "What is the characteristic of the gas liberated when dilute hydrochloric acid is added to iron(II) sulphide?",
+        "options": [
+          "Turns lime water milky",
+          "Decolorizes bromine water",
+          "Gives a pop sound",
+          "Turns lead (II) ethanoate paper black"
+        ],
+        "answer": "Turns lead (II) ethanoate paper black",
+        "questionId": "chemistry/objective_76",
+        "text": "What is the characteristic of the gas liberated when dilute hydrochloric acid is added to iron(II) sulphide?",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Turns lead (II) ethanoate paper black"
+      },
+      {
+        "question_number": 20,
+        "question": "Stainless steel is an alloy comprising of",
+        "options": [
+          "Fe and C",
+          "Fe and Ni",
+          "Fe, C and Ni",
+          "Fe, C and Al"
+        ],
+        "answer": "Fe and Ni",
+        "questionId": "chemistry/objective_19",
+        "text": "Stainless steel is an alloy comprising of",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Fe and Ni"
+      },
+      {
+        "question_number": 49,
+        "question": "Which of the following properties would not influence electrovalent bond formation?",
+        "options": [
+          "Electronegativity",
+          "Electron affinity",
+          "Ionization potential",
+          "Catalytic ability"
+        ],
+        "answer": "Catalytic ability",
+        "questionId": "chemistry/objective_48",
+        "text": "Which of the following properties would not influence electrovalent bond formation?",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Catalytic ability"
+      },
+      {
+        "question_number": 117,
+        "question": "What is the solubility of a salt X at 25°C if the saturated solution of the salt contains 0.28g in 100cm3 of solution? [X = 56.0g]",
+        "options": [
+          "0.05mol dm-3",
+          "0.10mol dm-3",
+          "2.60mol dm-3",
+          "2.80mol dm-3"
+        ],
+        "answer": "0.05mol dm-3",
+        "questionId": "chemistry/objective_116",
+        "text": "What is the solubility of a salt X at 25°C if the saturated solution of the salt contains 0.28g in 100cm3 of solution? [X = 56.0g]",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "0.05mol dm-3"
+      },
+      {
+        "question_number": 99,
+        "question": "The group to which elements belong in the periodic table is determined by the number of",
+        "options": [
+          "electrons",
+          "core electrons",
+          "valence shells",
+          "valence electrons"
+        ],
+        "answer": "valence electrons",
+        "questionId": "chemistry/objective_98",
+        "text": "The group to which elements belong in the periodic table is determined by the number of",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "valence electrons"
+      },
+      {
+        "question_number": 138,
+        "question": "Biotechnology is applied in the",
+        "options": [
+          "treatment of sewage",
+          "treatment of water",
+          "purification of chemicals",
+          "purification of metals"
+        ],
+        "answer": "treatment of water",
+        "questionId": "chemistry/objective_137",
+        "text": "Biotechnology is applied in the",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "treatment of water"
+      },
+      {
+        "question_number": 59,
+        "question": "Which of the following pairs of components have the same molecular mass? [H = 1.0, C = 12.0, O = 16.0]",
+        "options": [
+          "Ethene and ethyne",
+          "Ethane and ethene",
+          "Carbon(II) oxide and ethene",
+          "Carbon (IV) oxide and ethyne"
+        ],
+        "answer": "Carbon(II) oxide and ethene",
+        "questionId": "chemistry/objective_58",
+        "text": "Which of the following pairs of components have the same molecular mass? [H = 1.0, C = 12.0, O = 16.0]",
+        "sampleAnswer": "C",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Carbon(II) oxide and ethene"
+      },
+      {
+        "question_number": 34,
+        "question": "When zinc is added to AgNO3 solution, crystals of silver forms on the zinc surface. This indicates that zinc is",
+        "options": [
+          "oxidized",
+          "reduced",
+          "decomposed",
+          "dissociated"
+        ],
+        "answer": "oxidized",
+        "questionId": "chemistry/objective_33",
+        "text": "When zinc is added to AgNO3 solution, crystals of silver forms on the zinc surface. This indicates that zinc is",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "oxidized"
+      },
+      {
+        "question_number": 26,
+        "question": "Which of the following statements best explains the differences between a gas and a vapour?",
+        "options": [
+          "unlike gases, vapours are liquids at room temperature",
+          "Unlike gases, vapour can easily be condensed into liquids",
+          "Unlike gases, vapour is readily converted into solids",
+          "Vapours are generally denser than gases"
+        ],
+        "answer": "Vapours are generally denser than gases",
+        "questionId": "chemistry/objective_25",
+        "text": "Which of the following statements best explains the differences between a gas and a vapour?",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Vapours are generally denser than gases"
+      },
+      {
+        "question_number": 76,
+        "question": "Which of the following compounds is formed by the oxidation of ethanol?",
+        "options": [
+          "C2H4CO2H",
+          "C2H5CO2H",
+          "CH3OH",
+          "CH3CO2H"
+        ],
+        "answer": "CH3CO2H",
+        "questionId": "chemistry/objective_75",
+        "text": "Which of the following compounds is formed by the oxidation of ethanol?",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "CH3CO2H"
+      },
+      {
+        "question_number": 129,
+        "question": "When excess chlorine is mixed with ethane at room temperature, the product formed is",
+        "options": [
+          "1, 2-dichloroethane",
+          "1, 2-dichloroethene",
+          "1, 1-dichloroethane",
+          "1, 1-dichloroethene"
+        ],
+        "answer": "1, 2-dichloroethane",
+        "questionId": "chemistry/objective_128",
+        "text": "When excess chlorine is mixed with ethane at room temperature, the product formed is",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "1, 2-dichloroethane"
+      },
+      {
+        "question_number": 11,
+        "question": "Ethene is produced from ethanol by",
+        "options": [
+          "decomposition",
+          "hydrolysis",
+          "ozonolysis",
+          "dehydration"
+        ],
+        "answer": "dehydration",
+        "questionId": "chemistry/objective_10",
+        "text": "Ethene is produced from ethanol by",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "dehydration"
+      },
+      {
+        "question_number": 91,
+        "question": "Which of the following substances can be classified as heavy chemical?",
+        "options": [
+          "CaOCl2",
+          "H2SO4",
+          "AgNO4",
+          "CaO"
+        ],
+        "answer": "H2SO4",
+        "questionId": "chemistry/objective_90",
+        "text": "Which of the following substances can be classified as heavy chemical?",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "H2SO4"
+      },
+      {
+        "question_number": 10,
+        "question": "An organic compound has the empirical formula CH2. If its molar mass is 42gmol-1, what is its molecular formula? [H = 1.0, C = 12.0]",
+        "options": [
+          "C2H4",
+          "C3H4",
+          "C3H6",
+          "C4H8"
+        ],
+        "answer": "C3H6",
+        "questionId": "chemistry/objective_9",
+        "text": "An organic compound has the empirical formula CH2. If its molar mass is 42gmol-1, what is its molecular formula? [H = 1.0, C = 12.0]",
+        "sampleAnswer": "C",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "C3H6"
+      },
+      {
+        "question_number": 67,
+        "question": "What is the solubility of a salt X at 25°C if the saturated solution of the salt contains 0.28g in 100cm3 of solution? [X = 56.0g]",
+        "options": [
+          "0.05mol dm-3",
+          "0.10mol dm-3",
+          "2.60mol dm-3",
+          "2.80mol dm-3"
+        ],
+        "answer": "0.05mol dm-3",
+        "questionId": "chemistry/objective_66",
+        "text": "What is the solubility of a salt X at 25°C if the saturated solution of the salt contains 0.28g in 100cm3 of solution? [X = 56.0g]",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "0.05mol dm-3"
+      },
+      {
+        "question_number": 137,
+        "question": "In a mixture of gases which do not react chemically together, the pressure of the individual gas is",
+        "options": [
+          "atmospheric pressure",
+          "vapour pressure",
+          "total pressure",
+          "partial pressure"
+        ],
+        "answer": "atmospheric pressure",
+        "questionId": "chemistry/objective_136",
+        "text": "In a mixture of gases which do not react chemically together, the pressure of the individual gas is",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "atmospheric pressure"
+      },
+      {
+        "question_number": 123,
+        "question": "Which of the following pairs of substances has the highest heat of neutralization?",
+        "options": [
+          "Strong acid and strong base",
+          "Weak acid and weak base",
+          "Strong acid and weak base",
+          "Weak acid and strong base"
+        ],
+        "answer": "Strong acid and strong base",
+        "questionId": "chemistry/objective_122",
+        "text": "Which of the following pairs of substances has the highest heat of neutralization?",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Strong acid and strong base"
+      },
+      {
+        "question_number": 130,
+        "question": "Which of the following reagents could be used to distinguish between propan-1-ol and propan-2-ol?",
+        "options": [
+          "H+/K2Cr2O7",
+          "I2/OH-",
+          "CH3COOH",
+          "NaCl"
+        ],
+        "answer": "CH3COOH",
+        "questionId": "chemistry/objective_129",
+        "text": "Which of the following reagents could be used to distinguish between propan-1-ol and propan-2-ol?",
+        "sampleAnswer": "C",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "CH3COOH"
+      },
+      {
+        "question_number": 4,
+        "question": "The process of extraction of iron from its ore is",
+        "options": [
+          "decomposition",
+          "oxidation",
+          "reduction",
+          "sublimation"
+        ],
+        "answer": "reduction",
+        "questionId": "chemistry/objective_3",
+        "text": "The process of extraction of iron from its ore is",
+        "sampleAnswer": "C",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "reduction"
+      },
+      {
+        "question_number": 25,
+        "question": "The diagram below illustrates a conical flask containing water and ice. Which of the following statements about the diagram is correct?",
+        "options": [
+          "The water is at a lower temperature than the ice",
+          "Energy is absorbed when the ice changes to water",
+          "Energy is released when the ice changes to water",
+          "The water molecules vibrate about a fixed point."
+        ],
+        "answer": "Energy is absorbed when the ice changes to water",
+        "questionId": "chemistry/objective_24",
+        "text": "The diagram below illustrates a conical flask containing water and ice. Which of the following statements about the diagram is correct?",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Energy is absorbed when the ice changes to water"
+      },
+      {
+        "question_number": 12,
+        "question": "Consider the following equilibrium reaction: 2AB2(g) + B2(g) <-> 2AB3(g) H = -X kJmol-1. The backward reaction will be favoured by",
+        "options": [
+          "a decrease in pressure",
+          "an increase in pressure",
+          "a decrease in temperature",
+          "an introduction of a positive catalyst"
+        ],
+        "answer": "an increase in pressure",
+        "questionId": "chemistry/objective_11",
+        "text": "Consider the following equilibrium reaction: 2AB2(g) + B2(g) <-> 2AB3(g) H = -X kJmol-1. The backward reaction will be favoured by",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "an increase in pressure"
+      },
+      {
+        "question_number": 100,
+        "question": "Kipps apparatus can be used to prepare",
+        "options": [
+          "H2",
+          "NH3",
+          "O2",
+          "H2S"
+        ],
+        "answer": "H2S",
+        "questionId": "chemistry/objective_99",
+        "text": "Kipps apparatus can be used to prepare",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "H2S"
+      },
+      {
+        "question_number": 9,
+        "question": "Consider the following reaction equation: Br2 + 2KI -> 2KBr + I2. Bromine is acting as",
+        "options": [
+          "an oxidizing agent",
+          "a reducing agent",
+          "an acid",
+          "a base"
+        ],
+        "answer": "an oxidizing agent",
+        "questionId": "chemistry/objective_8",
+        "text": "Consider the following reaction equation: Br2 + 2KI -> 2KBr + I2. Bromine is acting as",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "an oxidizing agent"
+      },
+      {
+        "question_number": 15,
+        "question": "Consider the following sketch of the solubility curve of some substances. At what temperature does the solubility of KNO3 equal that of NaNO3?",
+        "options": [
+          "0°C",
+          "20°C",
+          "30°C",
+          "40°C"
+        ],
+        "answer": "20°C",
+        "questionId": "chemistry/objective_14",
+        "text": "Consider the following sketch of the solubility curve of some substances. At what temperature does the solubility of KNO3 equal that of NaNO3?",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "20°C"
+      },
+      {
+        "question_number": 56,
+        "question": "If 6.5g of magnesium ribbon reacts completely with hydrochloric acid, how many grams of hydrogen gas would be liberated? Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g) [H=1.0, Mg = 24.0]",
+        "options": [
+          "0.54g",
+          "0.70g",
+          "1.08g",
+          "1.40g"
+        ],
+        "answer": "0.54g",
+        "questionId": "chemistry/objective_55",
+        "text": "If 6.5g of magnesium ribbon reacts completely with hydrochloric acid, how many grams of hydrogen gas would be liberated? Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g) [H=1.0, Mg = 24.0]",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "0.54g"
+      },
+      {
+        "question_number": 22,
+        "question": "The most suitable substance for putting out petrol fire is",
+        "options": [
+          "water",
+          "carbon(IV)oxide",
+          "fire blanket",
+          "sand"
+        ],
+        "answer": "carbon(IV)oxide",
+        "questionId": "chemistry/objective_21",
+        "text": "The most suitable substance for putting out petrol fire is",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "carbon(IV)oxide"
+      },
+      {
+        "question_number": 111,
+        "question": "How many moles of carbon(IV) oxide contains 16.0g of oxygen? [C=12.0, O=16.0]",
+        "options": [
+          "0.20mol",
+          "0.25mol",
+          "0.40mol",
+          "0.50mol"
+        ],
+        "answer": "0.50mol",
+        "questionId": "chemistry/objective_110",
+        "text": "How many moles of carbon(IV) oxide contains 16.0g of oxygen? [C=12.0, O=16.0]",
+        "sampleAnswer": "D",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "0.50mol"
+      },
+      {
+        "question_number": 64,
+        "question": "Which of the following compounds has coordinate bonds in its structure?",
+        "options": [
+          "Al2Cl6",
+          "MgCl2",
+          "AgCl",
+          "NaCl"
+        ],
+        "answer": "Al2Cl6",
+        "questionId": "chemistry/objective_63",
+        "text": "Which of the following compounds has coordinate bonds in its structure?",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "Al2Cl6"
+      },
+      {
+        "question_number": 48,
+        "question": "The solubility of CO2 in water can be accounted for by",
+        "options": [
+          "van der Waal's forces",
+          "ionic attraction",
+          "dipole attraction",
+          "covalent bonding"
+        ],
+        "answer": "ionic attraction",
+        "questionId": "chemistry/objective_47",
+        "text": "The solubility of CO2 in water can be accounted for by",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "ionic attraction"
+      },
+      {
+        "question_number": 33,
+        "question": "The strength of metallic bonds depends on the",
+        "options": [
+          "charge density of the atoms",
+          "dectility of the metal",
+          "number of valence electrons",
+          "total number of electrons in the atom"
+        ],
+        "answer": "number of valence electrons",
+        "questionId": "chemistry/objective_32",
+        "text": "The strength of metallic bonds depends on the",
+        "sampleAnswer": "C",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "number of valence electrons"
+      },
+      {
+        "question_number": 140,
+        "question": "Consider the reaction represented by the following equation: C2H2 + H2 -> X --(H2)--> Y. X and Y respectively are",
+        "options": [
+          "ethane and ethene",
+          "ethene and ethane",
+          "ethyne and ethene",
+          "ethane and ethyne"
+        ],
+        "answer": "ethene and ethane",
+        "questionId": "chemistry/objective_139",
+        "text": "Consider the reaction represented by the following equation: C2H2 + H2 -> X --(H2)--> Y. X and Y respectively are",
+        "sampleAnswer": "B",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "ethene and ethane"
+      },
+      {
+        "question_number": 16,
+        "question": "When a salt is added to its saturated solution, the salt",
+        "options": [
+          "dissolves and the solution becomes super saturated",
+          "dissolves and the solution becomes unsaturated",
+          "precipitates and the solution remains unchanged",
+          "dissolves and crystals are formed"
+        ],
+        "answer": "dissolves and the solution becomes super saturated",
+        "questionId": "chemistry/objective_15",
+        "text": "When a salt is added to its saturated solution, the salt",
+        "sampleAnswer": "A",
+        "type": "mcq",
+        "questionType": "mcq",
+        "correctAnswer": "dissolves and the solution becomes super saturated"
+      }
+    ],
+    "total": 50,
+    "createdAt": "2026-09-11T14:41:53.648Z",
+    "updatedAt": "2026-09-11T14:41:53.648Z"
+  }
+]

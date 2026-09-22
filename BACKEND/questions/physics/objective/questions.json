@@ -1,0 +1,148 @@
+{
+  "subject": "Physics",
+  "year": 2026,
+  "paper": "Objective",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is the SI unit of force?",
+      "options": {
+        "A": "Joule",
+        "B": "Newton",
+        "C": "Pascal",
+        "D": "Watt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Force is measured in newtons (N).",
+      "topic": "Mechanics",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 2,
+      "question": "A body moving with constant velocity has:",
+      "options": {
+        "A": "Constant acceleration",
+        "B": "Zero acceleration",
+        "C": "Increasing speed",
+        "D": "Variable speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Constant velocity means both speed and direction remain unchanged, so acceleration is zero.",
+      "topic": "Motion",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 3,
+      "question": "Which instrument is used to measure electric current?",
+      "options": {
+        "A": "Voltmeter",
+        "B": "Thermometer",
+        "C": "Ammeter",
+        "D": "Barometer"
+      },
+      "correctAnswer": "C",
+      "explanation": "An ammeter measures electric current in a circuit.",
+      "topic": "Electricity",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4,
+      "question": "The acceleration due to gravity on Earth is approximately:",
+      "options": {
+        "A": "4.8 m/s²",
+        "B": "7.8 m/s²",
+        "C": "9.8 m/s²",
+        "D": "12.8 m/s²"
+      },
+      "correctAnswer": "C",
+      "explanation": "The standard acceleration due to gravity is about 9.8 m/s².",
+      "topic": "Gravity",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 5,
+      "question": "Energy possessed by a moving object is known as:",
+      "options": {
+        "A": "Potential energy",
+        "B": "Heat energy",
+        "C": "Chemical energy",
+        "D": "Kinetic energy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kinetic energy is the energy due to motion.",
+      "topic": "Energy",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6,
+      "question": "The SI unit of electric resistance is:",
+      "options": {
+        "A": "Volt",
+        "B": "Ampere",
+        "C": "Ohm",
+        "D": "Coulomb"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electrical resistance is measured in ohms (Ω).",
+      "topic": "Electricity",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7,
+      "question": "Which color of light has the longest wavelength?",
+      "options": {
+        "A": "Blue",
+        "B": "Green",
+        "C": "Red",
+        "D": "Violet"
+      },
+      "correctAnswer": "C",
+      "explanation": "Red light has the longest wavelength in the visible spectrum.",
+      "topic": "Light",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8,
+      "question": "The device used to convert electrical energy into mechanical energy is:",
+      "options": {
+        "A": "Transformer",
+        "B": "Generator",
+        "C": "Electric motor",
+        "D": "Battery"
+      },
+      "correctAnswer": "C",
+      "explanation": "An electric motor converts electrical energy into mechanical energy.",
+      "topic": "Electricity",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9,
+      "question": "Sound cannot travel through:",
+      "options": {
+        "A": "Air",
+        "B": "Water",
+        "C": "Steel",
+        "D": "Vacuum"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sound requires a material medium and cannot travel through a vacuum.",
+      "topic": "Sound",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10,
+      "question": "Which law states that for a conductor at constant temperature, current is directly proportional to voltage?",
+      "options": {
+        "A": "Newton's First Law",
+        "B": "Hooke's Law",
+        "C": "Ohm's Law",
+        "D": "Boyle's Law"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ohm's Law states that V = IR for a conductor at constant temperature.",
+      "topic": "Electricity",
+      "difficulty": "Medium"
+    }
+  ]
+}

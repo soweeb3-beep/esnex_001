@@ -1,0 +1,181 @@
+[
+  {
+    "_id": "wrqiqrsr3",
+    "name": "ESNEX Admin",
+    "email": "admin@esnex.com",
+    "password": "$2b$10$beiYz7MHJp.xFC6YUqepYeqeunY5jED9snFAoKAY3TIRvk5uCtGXm",
+    "role": "75eu8hn1v",
+    "roleString": "admin",
+    "createdAt": "2026-06-25T16:21:22.181Z",
+    "updatedAt": "2026-06-25T16:21:22.181Z"
+  },
+  {
+    "_id": "alpha_user_001",
+    "name": "Alpha Test",
+    "email": "alpha@gmail.com",
+    "password": "$2b$10$JCenJuR7mPewiwg8nDp/ju7lxyubxccGb7Iljc0jJT2Q5LW2287He",
+    "role": "j5qspm21g",
+    "roleString": "student",
+    "createdAt": "2026-06-27T12:00:15.375Z",
+    "updatedAt": "2026-06-27T12:00:15.377Z"
+  },
+  {
+    "_id": "stu_test_1",
+    "name": "Test Student",
+    "email": "teststudent@example.com",
+    "createdAt": "2026-08-08T19:14:56.813Z",
+    "updatedAt": "2026-08-08T19:14:56.813Z"
+  },
+  {
+    "_id": "admin_test_1",
+    "name": "Admin",
+    "email": "admin@example.com",
+    "role": "admin",
+    "createdAt": "2026-08-08T19:31:11.279Z",
+    "updatedAt": "2026-08-08T19:31:11.279Z"
+  },
+  {
+    "_id": "admin_test_1",
+    "name": "Admin",
+    "email": "admin@example.com",
+    "role": "admin",
+    "createdAt": "2026-08-08T19:31:56.984Z",
+    "updatedAt": "2026-08-08T19:31:56.984Z"
+  },
+  {
+    "_id": "admin_test_1",
+    "name": "Admin",
+    "email": "admin@example.com",
+    "role": "admin",
+    "createdAt": "2026-08-08T19:33:42.157Z",
+    "updatedAt": "2026-08-08T19:33:42.157Z"
+  },
+  {
+    "_id": "admin_test_1",
+    "name": "Admin",
+    "email": "admin@example.com",
+    "role": "admin",
+    "createdAt": "2026-08-08T19:34:46.262Z",
+    "updatedAt": "2026-08-08T19:34:46.262Z"
+  },
+  {
+    "_id": "u_test_autosave",
+    "name": "Autosave User",
+    "email": "autosave@example.com",
+    "createdAt": "2026-08-09T00:16:29.340Z",
+    "updatedAt": "2026-08-09T00:16:29.340Z"
+  },
+  {
+    "_id": "u_test_threshold",
+    "name": "Threshold User",
+    "email": "threshold@example.com",
+    "createdAt": "2026-08-09T00:21:33.001Z",
+    "updatedAt": "2026-08-09T00:21:33.001Z"
+  },
+  {
+    "_id": "oemxzvu4j",
+    "name": "Mariam Sowe",
+    "email": "mariam@gmail.com",
+    "password": "$2b$10$7xojNsQjZDUtLDZtbprtfeRrcl2nOr/26FYvuJk2JMZrHa6gc0hnC",
+    "role": "j5qspm21g",
+    "roleString": "student",
+    "createdAt": "2026-09-11T14:43:38.298Z",
+    "updatedAt": "2026-09-11T14:43:38.298Z"
+  },
+  {
+    "_id": "6ffhj4jg9",
+    "name": "Test Buyer",
+    "email": "buyer@example.com",
+    "password": "$2b$10$/4rp4tftFRNPiClQ7jdkgecm3tiZwJotiAlGii/VJW6O9m52bx2WG",
+    "role": "j5qspm21g",
+    "roleString": "student",
+    "createdAt": "2026-09-13T23:42:30.710Z",
+    "updatedAt": "2026-09-13T23:42:30.710Z"
+  },
+  {
+    "_id": "user-123",
+    "name": "Test User",
+    "email": "test@example.com",
+    "role": "student",
+    "enrolledCourses": [
+      "course-1"
+    ],
+    "createdAt": "2026-09-15T23:31:42.746Z",
+    "updatedAt": "2026-09-15T23:31:42.851Z"
+  },
+  {
+    "_id": "w4twaluqc",
+    "name": "Fresh User 1789516121563",
+    "email": "freshuser1789516121563@example.com",
+    "password": "$2b$10$SCkkIAxl1W6C9tMIDZGeX.enkpNiW8YgpewQu/hIEmKGpbS8CgBii",
+    "role": "j5qspm21g",
+    "roleString": "student",
+    "createdAt": "2026-09-15T23:48:42.736Z",
+    "updatedAt": "2026-09-15T23:48:42.736Z"
+  },
+  {
+    "_id": "yq21qkjyn",
+    "name": "Fresh User 1789516587609",
+    "email": "freshuser1789516587609@example.com",
+    "password": "$2b$10$NncKOmzEON4/VgS6KL/vAuCID5Eiz8654Bj8XSRlq4c/NTfPw..ei",
+    "role": "j5qspm21g",
+    "roleString": "student",
+    "createdAt": "2026-09-15T23:56:28.117Z",
+    "updatedAt": "2026-09-15T23:56:28.117Z"
+  },
+  {
+    "_id": "xdkwc4dc5",
+    "name": "Fresh User 1789517060715",
+    "email": "freshuser1789517060715@example.com",
+    "password": "$2b$10$vOEAkH/8ePCiLhR6gtKKcOtxwQzaecw5qmVVpGKZyu9WgreDyyzg2",
+    "role": "j5qspm21g",
+    "roleString": "student",
+    "createdAt": "2026-09-16T00:04:21.069Z",
+    "updatedAt": "2026-09-16T00:04:21.069Z"
+  },
+  {
+    "_id": "ud9s720rb",
+    "name": "Verified Student",
+    "email": "verified@example.com",
+    "password": "secret",
+    "role": "student",
+    "createdAt": "2026-09-16T01:29:09.444Z",
+    "updatedAt": "2026-09-16T01:29:09.444Z"
+  },
+  {
+    "_id": "psg6kn27l",
+    "name": "Verified Student",
+    "email": "verified@example.com",
+    "password": "secret",
+    "role": "student",
+    "createdAt": "2026-09-16T01:29:57.888Z",
+    "updatedAt": "2026-09-16T01:29:57.888Z"
+  },
+  {
+    "_id": "40wza3jvw",
+    "name": "e2e user",
+    "email": "e2e@example.com",
+    "password": "x",
+    "role": "student",
+    "createdAt": "2026-09-17T19:36:08.487Z",
+    "updatedAt": "2026-09-17T19:36:08.508Z"
+  },
+  {
+    "_id": "v4ukrom8i",
+    "name": "e2e user 2",
+    "email": "e2e2@example.com",
+    "password": "x",
+    "role": "student",
+    "createdAt": "2026-09-17T19:39:31.936Z",
+    "updatedAt": "2026-09-17T19:39:31.939Z"
+  },
+  {
+    "_id": "taurkafuk",
+    "name": "e2e user 3",
+    "email": "e2e3@example.com",
+    "password": "x",
+    "role": "student",
+    "createdAt": "2026-09-17T19:40:59.120Z",
+    "updatedAt": "2026-09-17T19:40:59.122Z"
+  }
+]

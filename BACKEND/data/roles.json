@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "9xe3q6xx1",
+    "key": "super-admin",
+    "name": "Super Admin",
+    "description": "Full system access with all permissions",
+    "permissions": [
+      "everything"
+    ],
+    "isSystemRole": true,
+    "isActive": true,
+    "createdAt": "2026-06-25T16:21:21.957Z",
+    "updatedAt": "2026-06-25T16:21:21.959Z"
+  },
+  {
+    "_id": "75eu8hn1v",
+    "key": "admin",
+    "name": "Admin",
+    "description": "Administrative access to manage courses, assessments, users, and payments",
+    "permissions": [
+      "homepage",
+      "courses",
+      "users",
+      "assessments",
+      "payments",
+      "notifications",
+      "analytics"
+    ],
+    "isSystemRole": true,
+    "isActive": true,
+    "createdAt": "2026-06-25T16:21:21.964Z",
+    "updatedAt": "2026-06-25T16:21:21.965Z"
+  },
+  {
+    "_id": "zbdoivimy",
+    "key": "lecturer",
+    "name": "Lecturer",
+    "description": "Can upload and edit courses, create quizzes, and grade theory/oral assignments",
+    "permissions": [
+      "uploadCourse",
+      "editOwnCourse",
+      "createQuizzes",
+      "gradeTheory",
+      "viewStudents"
+    ],
+    "isSystemRole": true,
+    "isActive": true,
+    "createdAt": "2026-06-25T16:21:21.969Z",
+    "updatedAt": "2026-06-25T16:21:21.969Z"
+  },
+  {
+    "_id": "xjwt9oyxs",
+    "key": "support",
+    "name": "Support Staff",
+    "description": "Can view student information, manage payments and notifications",
+    "permissions": [
+      "viewStudents",
+      "payments",
+      "notifications"
+    ],
+    "isSystemRole": true,
+    "isActive": true,
+    "createdAt": "2026-06-25T16:21:21.973Z",
+    "updatedAt": "2026-06-25T16:21:21.973Z"
+  },
+  {
+    "_id": "2cz3ex366",
+    "key": "moderator",
+    "name": "Moderator",
+    "description": "Can approve content, review testimonials, and publish FAQs",
+    "permissions": [
+      "approveContent",
+      "reviewTestimonials",
+      "publishFaq"
+    ],
+    "isSystemRole": true,
+    "isActive": true,
+    "createdAt": "2026-06-25T16:21:21.977Z",
+    "updatedAt": "2026-06-25T16:21:21.977Z"
+  },
+  {
+    "_id": "j5qspm21g",
+    "key": "student",
+    "name": "Student",
+    "description": "Default learner role with access to courses and assessments",
+    "permissions": [],
+    "isSystemRole": true,
+    "isActive": true,
+    "createdAt": "2026-06-25T16:21:21.981Z",
+    "updatedAt": "2026-06-25T16:21:21.981Z"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "enrollment_001",
+    "student": "alpha_user_001",
+    "course": "76oos1loq",
+    "paymentId": "payment_001",
+    "paymentReference": "PAY_alpha_user_001_course_76oos1loq_1782400980760",
+    "paymentStatus": "completed",
+    "accessType": "full",
+    "validUntil": "2027-06-25T00:00:00Z",
+    "progress": {
+      "completedLessons": [],
+      "percentage": 0
+    },
+    "enrollmentDate": "2026-06-25T13:50:00Z",
+    "createdAt": "2026-06-25T13:50:00Z",
+    "updatedAt": "2026-06-25T13:50:00Z"
+  },
+  {
+    "_id": "out71xwwr",
+    "student": "user-123",
+    "course": "course-1",
+    "progress": {
+      "completedLessons": []
+    },
+    "paymentStatus": "paid",
+    "paymentId": "hrcegleyf",
+    "paymentReference": "VERIFY-TEST-123",
+    "transactionId": "VERIFY-TEST-123",
+    "paymentMethod": "Admin Granted",
+    "paymentAmount": 1515,
+    "paymentCurrency": "GMD",
+    "paymentDate": "2026-09-15T23:31:42.831Z",
+    "accessType": "full",
+    "validUntil": "2027-09-15T23:31:42.844Z",
+    "auditLogs": [
+      {
+        "event": "payment_verified",
+        "details": "Payment completed for course Introduction to ITC",
+        "createdAt": "2026-09-15T23:31:42.844Z"
+      }
+    ],
+    "createdAt": "2026-09-15T23:31:42.845Z",
+    "updatedAt": "2026-09-15T23:31:42.845Z"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "eng-theory-essay-1",
+    "prompt": "Write a short letter introducing yourself.",
+    "type": "essay",
+    "marks": 10
+  }
+]
