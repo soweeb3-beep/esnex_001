@@ -6,7 +6,7 @@ const {
   verifyPayment,
   getPaymentHistory,
   getPaymentStatus,
-  handleWaveWebhook,
+  handlePaymentWebhook,
   getAdminPaymentSummary,
   getAdminRevenueChart,
   getPaymentReconciliation,
@@ -68,8 +68,8 @@ router.get("/status/:enrollmentId", protect, getPaymentStatus);
 
 /**
  * POST /api/payments/webhook
- * Handle Wave webhook events
+ * Handle Modem Pay webhook events
  */
-router.post("/webhook", handleWaveWebhook);
+router.post("/webhook", handlePaymentWebhook);
 
 module.exports = router;

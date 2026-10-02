@@ -26,8 +26,8 @@
     "assessmentId": "a1",
     "studentId": "stu1",
     "accessGranted": true,
-    "paymentId": "eoku1osr3",
-    "paymentDate": "2026-09-16T01:28:16.686Z",
+    "paymentId": "sfp974p9a",
+    "paymentDate": "2026-09-24T13:01:58.625Z",
     "paymentStatus": "paid",
     "paymentReference": "PAY-TEST-1",
     "transactionId": "tx1",
@@ -35,9 +35,12 @@
     "paymentCurrency": "GMD",
     "subscriptionType": "monthly",
     "subscriptionStatus": "active",
-    "expiryDate": "2026-10-16T01:28:16.707Z",
+    "expiryDate": "2026-10-24T13:01:58.625Z",
     "createdAt": "2026-08-08T18:50:21.485Z",
-    "updatedAt": "2026-09-16T01:28:16.762Z"
+    "updatedAt": "2026-09-24T13:01:58.671Z",
+    "paidAt": "2026-09-24T13:01:58.625Z",
+    "validUntil": "2026-10-24T13:01:58.625Z",
+    "accessType": "assessment"
   },
   {
     "_id": "df0j6rf9w",
@@ -105,8 +108,7 @@
     "expiryDate": "2026-10-16T01:29:57.915Z",
     "createdAt": "2026-09-16T01:29:57.920Z",
     "updatedAt": "2026-09-16T01:29:57.920Z"
-  }
-  ,
+  },
   {
     "_id": "mariam_enroll_1",
     "assessmentId": "verified-assessment-1",
@@ -128,5 +130,49 @@
     "accessType": "assessment",
     "createdAt": "2026-09-18T12:00:00.000Z",
     "updatedAt": "2026-09-18T12:00:00.000Z"
+  },
+  {
+    "_id": "phmwxdt4k",
+    "assessmentId": "verified-assessment-1",
+    "studentId": "e6ef8anv4",
+    "accessGranted": true,
+    "paymentId": "kcir6aptl",
+    "paymentDate": "2026-09-23T23:17:17.078Z",
+    "paidAt": "2026-09-23T23:17:17.078Z",
+    "paymentStatus": "paid",
+    "paymentReference": "PAY-ALREADY-VERIFIED-1",
+    "transactionId": "tx-already-verified",
+    "paymentMethod": "Modem Pay",
+    "paymentAmount": 202,
+    "paymentCurrency": "GMD",
+    "subscriptionType": "monthly",
+    "subscriptionStatus": "active",
+    "expiryDate": "2026-10-23T23:17:17.078Z",
+    "validUntil": "2026-10-23T23:17:17.078Z",
+    "accessType": "assessment",
+    "createdAt": "2026-09-23T23:17:17.084Z",
+    "updatedAt": "2026-09-23T23:17:17.084Z"
+  },
+  {
+    "_id": "cghbr6667",
+    "assessmentId": "verified-assessment-1",
+    "studentId": "ahuob6zwh",
+    "accessGranted": true,
+    "paymentId": "u7k4pa4f8",
+    "paymentDate": "2026-09-24T13:01:58.783Z",
+    "paidAt": "2026-09-24T13:01:58.783Z",
+    "paymentStatus": "paid",
+    "paymentReference": "PAY-ALREADY-VERIFIED-1",
+    "transactionId": "tx-already-verified",
+    "paymentMethod": "Modem Pay",
+    "paymentAmount": 202,
+    "paymentCurrency": "GMD",
+    "subscriptionType": "monthly",
+    "subscriptionStatus": "active",
+    "expiryDate": "2026-10-24T13:01:58.783Z",
+    "validUntil": "2026-10-24T13:01:58.783Z",
+    "accessType": "assessment",
+    "createdAt": "2026-09-24T13:01:58.787Z",
+    "updatedAt": "2026-09-24T13:01:58.787Z"
   }
 ]

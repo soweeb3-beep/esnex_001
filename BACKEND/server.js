@@ -68,7 +68,12 @@ const app = express();
 
 app.use(cors());
 app.use(compression()); // Enable gzip compression
-app.use(express.json({ limit: '10mb' }));
+app.use(express.json({
+  limit: '10mb',
+  verify: (req, res, buffer) => {
+    req.rawBody = buffer.toString('utf8');
+  },
+}));
 app.use(express.urlencoded({ limit: '10mb', extended: true }));
 
 // Request logging middleware

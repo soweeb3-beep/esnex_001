@@ -435,6 +435,10 @@ const WAVE_API_URL = process.env.WAVE_API_URL || "https://api.wave.co/charges";
 
 const MODEM_PAY_API_KEY = process.env.MODEM_PAY_API_KEY;
 const MODEM_PAY_API_URL = process.env.MODEM_PAY_API_URL || "https://api.modempay.com";
+const configuredModemPayWebhookSecret = process.env.MODEM_PAY_WEBHOOK_SECRET;
+const MODEM_PAY_WEBHOOK_SECRET = configuredModemPayWebhookSecret && !configuredModemPayWebhookSecret.startsWith("replace_with_")
+  ? configuredModemPayWebhookSecret
+  : "";
 const MODEM_PAY_CLIENT = MODEM_PAY_API_KEY ? new ModemPay(MODEM_PAY_API_KEY) : null;
 
 if (MODEM_PAY_API_KEY) {
@@ -452,6 +456,9 @@ if (!WAVE_API_KEY) {
 }
 if (!WAVE_WEBHOOK_SECRET) {
   console.warn("Warning: WAVE_WEBHOOK_SECRET is not set. Webhook signatures will not be trusted.");
+}
+if (!MODEM_PAY_WEBHOOK_SECRET) {
+  console.warn("Warning: MODEM_PAY_WEBHOOK_SECRET is not set. Modem Pay webhook signatures will not be trusted.");
 }
 
 const maybePopulate = (query, path, select) => {
@@ -1058,15 +1065,33 @@ exports.verifyPayment = async (req, res) => {
 };
 
 /**
- * Wave Webhook Handler - Process Wave Webhook Events
+ * Modem Pay/Wave Webhook Handler - Process provider events
  */
-exports.handleWaveWebhook = async (req, res) => {
+exports.handlePaymentWebhook = async (req, res) => {
   try {
     const { data } = req.body;
 
-    const signature = req.headers["x-wave-signature"];
+    const modemSignature = req.headers["x-modem-pay-signature"] || req.headers["x-webhook-signature"];
+    const signature = modemSignature || req.headers["x-wave-signature"];
+    const isModemPay = Boolean(MODEM_PAY_WEBHOOK_SECRET);
     // If a webhook secret is configured, require a valid signature. If not configured, warn and accept payloads (dev only).
-    if (WAVE_WEBHOOK_SECRET) {
+    if (isModemPay) {
+      if (!modemSignature) {
+        console.warn("Missing Modem Pay webhook signature while MODEM_PAY_WEBHOOK_SECRET is configured");
+        return res.status(401).json({ success: false, message: "Missing signature" });
+      }
+      try {
+        const eventDetails = MODEM_PAY_CLIENT?.webhooks.composeEventDetails(
+          req.rawBody || req.body,
+          modemSignature,
+          MODEM_PAY_WEBHOOK_SECRET,
+        );
+        req.body = { event: eventDetails.event, data: eventDetails.payload };
+      } catch (verificationError) {
+        console.warn("Invalid Modem Pay webhook signature", verificationError.message);
+        return res.status(401).json({ success: false, message: "Invalid signature" });
+      }
+    } else if (WAVE_WEBHOOK_SECRET) {
       if (!signature) {
         console.warn("Missing webhook signature while WAVE_WEBHOOK_SECRET is configured");
         return res.status(401).json({ success: false, message: "Missing signature" });
@@ -1082,12 +1107,12 @@ exports.handleWaveWebhook = async (req, res) => {
       console.warn("Warning: WAVE_WEBHOOK_SECRET not set. Webhook signatures will not be trusted.");
     }
 
-    if (!data?.event || !data.data) {
+    const eventType = req.body.event || data?.event;
+    const payload = req.body.event ? req.body.data : data?.data;
+    if (!eventType || !payload) {
       return res.status(400).json({ success: false, message: "Invalid webhook payload" });
     }
 
-    const eventType = data.event;
-    const payload = data.data;
     const reference = payload.reference || payload.transaction_id || payload.gatewayReference;
     const transactionId = payload.transaction_id || payload.transactionId || payload.id;
     const gatewayReference = payload.gateway_reference || payload.gatewayReference || payload.reference;
@@ -1144,6 +1169,9 @@ exports.handleWaveWebhook = async (req, res) => {
     });
   }
 };
+
+// Keep the old export name for existing tests and callers.
+exports.handleWaveWebhook = exports.handlePaymentWebhook;
 
 /**
  * Get Payment History
